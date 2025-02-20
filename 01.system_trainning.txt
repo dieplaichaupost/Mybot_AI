@@ -1,1 +1,1164 @@
 Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
+
+Bạn hãy  những thông tin bên dưới dể trả lời cho các khách hang của tôi
+
+                     VNPT LAI CHÂU                                      VNPT VINAPHONE
+
+---&---
+
+
+
+
+
+
+
+
+
+
+
+CẨM NANG CÁC GÓI CƯỚC
+CỦA VINAPHONE 2024
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lai Châu – 2024
+
+MỤC LỤC
+CÁC GÓI CƯỚC DI ĐỘNG	4
+1. CÁC GÓI COMBO:	4
+2. CÁC GÓI DATA:	5
+3. GÓI YOLO100M (GÓI TRỌNG ĐIỂM)	5
+4. GÓI YOLO125V (GÓI DATA KHỦNG)	6
+5. CÁC GÓI CƯỚC BUNDLE NỘI DUNG BẢO MẬT:	6
+6. CÁC GÓI CƯỚC CHƠI GAME:	7
+7. TƯ LIỆU TRUYỀN THÔNG:	8
+CÁC GÓI CƯỚC BĂNG RỘNG CỐ ĐỊNH, MYTV	17
+1. GÓI CƯỚC HOME INTERNET	17
+2. GÓI CƯỚC HOME INTERNET +WIFI MESH	17
+3. GÓI CƯỚC HOME INTERNET + MYTV (HOMETV)	16
+4. GÓI CƯỚC HOME INTERNET +WIFI MESH + MYTV (HOMETV+MESH)	19
+5. GÓI CƯỚC HOME INTERNET + CAMERA	24
+6. GÓI CƯỚC HOME INTERNET + CAMERA+WIFIMESH	24
+7. CÁC GÓI CƯỚC KHU VỰC CẠNH TRANH	25
+8. GÓI HOME MOBILE	26
+9. GÓI HOME COMBO	26
+9.1. Home Combo 1	26
+9.2. Home Combo 2 (có Wifi Mesh):	27
+9.3. Gói cước Home Combo 2 (không Wifi Mesh):	28
+10. GÓI HOME SÀNH	29
+11. GÓI HOME CHẤT	30
+11. KỊCH BẢN TIẾP XÚC KHÁCH HÀNG	32
+11.1. KH mới:	32
+11.2. KH hiện hữu	36
+11.3. Điểm nổi bật các gói cước:	40
+12. TƯ LIỆU TRUYỀN THÔNG:	42
+DỊCH VỤ SMART CA – CA	47
+1. GIỚI THIỆU DỊCH VỤ	47
+2. GIÁ CƯỚC CỦA DỊCH VỤ:	47
+3. TƯ LIỆU TRUYỀN THÔNG:	48
+DỊCH VỤ MYTV MOBILE (APP)	49
+1. GÓI MYTV CHÍNH:	49
+2. GÓI CƯỚC ADD-ON:	49
+3. GÓI CƯỚC MYTV FIX ĐƠN LẺ:	50
+3. TẢI ỨNG DỤNG:	51
+4. TƯ LIỆU TRUYỀN THÔNG GÓI CƯỚC:	52
+DỊCH VỤ CA VÀ BHXH	56
+DỊCH VỤ HOÁ ĐƠN ĐIỆN TỬ (VNPT INVOICE)	56
+DỊCH VỤ HOÁ ĐƠN ĐIỆN TỬ KHỞI TẠO TỪ MÁY TÍNH TIỀN  (VNPT INVOICE-POS)	57
+DỊCH VỤ BIÊN LAI ĐIỆN TỬ  (VNPT ERECEIPT)	58
+DỊCH VỤ QUẢN LÝ HOÁ ĐƠN ĐIỆN TỬ ĐẦU VÀO  (VNPT INVOICE-INBOT)	59
+
+
+
+
+
+
+
+
+
+
+
+
+CÁC GÓI CƯỚC DI ĐỘNG
+1. CÁC GÓI COMBO:
+Tên gói/KIT Bundle	Mã gói	Loại thuê bao	Thời gian sử dụng chu kỳ đầu	Thời gian sử dụng chu kỳ gia hạn	Giá gói	Giá SIM bundle	Quyền lợi gói/tháng
+VD90	VD90	Trả trước	30 ngày	30 ngày	90,000	127,500	Mỗi chu kỳ được sử dụng: tất cả cuộc gọi di động nội mạng <=10 phút (tối đa 1500ph) + 30 phút liên mạng + 1GB/ngày. Hết lưu lượng tốc độ cao ngừng truy cập.
+		Trả sau	1 tháng	1 tháng		Không có	
+	3VD90	Trả trước	90 ngày	90 ngày	270,000	307,500	
+		Trả sau	3 tháng	3 tháng		Không có	
+	6VD90	Trả trước	180 ngày	210 ngày	540,000	577,500	
+		Trả sau	6 tháng	7 tháng		Không có	
+	12VD90	Trả trước	360 ngày	420 ngày	1,080,000	1,117,500	
+		Trả sau	12 tháng	14 tháng		Không có	
+VD120N	VD120N	Trả trước	30 ngày	30 ngày	120,000	157,000	Mỗi chu kỳ (30 ngày) được sử dụng: tất cả cuộc gọi di động nội mạng <=10 phút (tối đa 1500ph) + 50 phút liên mạng + 1,5 GB/ngày. Hết lưu lượng tốc độ cao ngừng truy cập.
+		Trả sau	1 tháng	1 tháng		Không có	
+	3VD120N	Trả trước	90 ngày	90 ngày	360,000	397,500	
+		Trả sau	3 tháng	3 tháng		Không có	
+	6VD120N	Trả trước	180 ngày	210 ngày	720,000	757,500	
+		Trả sau	6 tháng	7 tháng		Không có	
+	12VD120N	Trả trước	360 ngày	420 ngày	1,440,000	1,477,500	
+		Trả sau	12 tháng	14 tháng		Không có	
+VD150	VD150	Trả trước	30 ngày	30 ngày	150,000	187,500	Mỗi chu kỳ (30 ngày) được sử dụng: Các cuộc gọi nội mạng <=10 phút (tối đa 1500ph) + 80 phút liên mạng + 2 GB/ngày. Hết lưu lượng tốc độ cao ngừng truy cập.
+		Trả sau	1 tháng	1 tháng		Không có	
+	3VD150	Trả trước	90 ngày	90 ngày	450,000	487,500	
+		Trả sau	3 tháng	3 tháng		Không có	
+	6VD150	Trả trước	180 ngày	210 ngày	900,000	937,500	
+		Trả sau	6 tháng	7 tháng		Không có	
+	12VD150	Trả trước	360 ngày	420 ngày	1,800,000	1,837,500	
+		Trả sau	12 tháng	14 tháng		Không có	
+
+2. CÁC GÓI DATA:
+Tên gói	Giá (Đã có VAT)	Nội dung gói	Thời hạn sử dụng gói trả trước chu kỳ đầu	Thời hạn sử dụng gói trả trước từ chu kỳ thứ 2
+YOLO70	70.000	1GB/ngày. Hết dung lượng ngừng truy cập	1 chu kỳ	1 chu kỳ
+3YOLO70	210.000		3 chu kỳ	3 chu kỳ
+6YOLO70	420.000		6 chu kỳ	7 chu kỳ
+12YOLO70	840.000		12 chu kỳ	14 chu kỳ
+YOLO90	90.000	1.5GB/ngày. Hết dung lượng ngừng truy cập	1 chu kỳ	1 chu kỳ
+3YOLO90	270.000		3 chu kỳ	3 chu kỳ
+6YOLO90	540.000		6 chu kỳ	7 chu kỳ
+12YOLO90	1.080.000		12 chu kỳ	14 chu kỳ
+DT70	70.000	10GB/tháng. Hết dung lượng ngừng truy cập	1 chu kỳ	1 chu kỳ
+3DT70	210.000		3 chu kỳ	3 chu kỳ
+6DT70	420.000		6 chu kỳ	7 chu kỳ
+12DT70	840.000		12 chu kỳ	14 chu kỳ
+DT90	90.000	15GB/tháng. Hết dung lượng ngừng truy cập	1 chu kỳ	1 chu kỳ
+3DT90	270.000		3 chu kỳ	3 chu kỳ
+6DT90	540.000		6 chu kỳ	7 chu kỳ
+12DT90	1.080.000		12 chu kỳ	14 chu kỳ
+DT120	120.000	20GB/tháng. Hết dung lượng ngừng truy cập	1 chu kỳ	1 chu kỳ
+3DT120	360.000		3 chu kỳ	3 chu kỳ
+6DT120	720.000		6 chu kỳ	7 chu kỳ
+12DT120	1.440.000		12 chu kỳ	14 chu kỳ
+
+3. GÓI YOLO100M (GÓI TRỌNG ĐIỂM)
+Nội dung	Giá gói (đ)	Thời hạn SD chu kỳ đầu	Thời hạn SD  từ chu kỳ thứ 2	Nội dung gói
+Tên gói	YOLO100M	100.000	1 chu kỳ	1 chu kỳ	- 1GB/ngày hết dung lượng dừng truy cập.
+- Truy cập Youtube,Facebook, Tiktok, MyTV addon VTVcab (hơn 140 kênh truyền hình bao gồm chùm kênh VTVcab).
+	3YOLO100M	300.000 	3 chu kỳ	3 chu kỳ	
+	6YOLO100M	600.000 	6 chu kỳ 	7 chu kỳ 	
+	12YOLO100M	1.200.000 	12 chu kỳ	14 chu kỳ	
+
+4. GÓI YOLO125V (GÓI DATA KHỦNG)
+Nội dung	Giá gói (đ)	Thời hạn SD chu kỳ đầu	Thời hạn SD  từ chu kỳ thứ 2	Nội dung gói
+Tên gói	YOLO125V	125.000	1 chu kỳ	1 chu kỳ	-	7GB/ngày, hết dung lượng dừng truy cập.
+-	Truy cập MyTV addon VTvcab (140 kênh truyền hình gồm chùm kênh VTVcab)
+-	1 tài khoản sử dụng các nội dung tại ứng dụng đọc sách Reavol
+
+	3YOLO125V	375.000	3 chu kỳ	3 chu kỳ	
+	6YOLO125V	750.000	6 chu kỳ	7 chu kỳ	
+	12YOLO125V	1.500.000	12 chu kỳ	14 chu kỳ	
+
+5. CÁC GÓI CƯỚC BUNDLE NỘI DUNG BẢO MẬT:
+Tên gói	Giá gói	Tên Mã gói	THSD Chu kỳ đầu	THSD chu kỳ sau	Quyền lợi gói/30 ngày
+Bảo mật 99	99.000	BM99N	30 ngày	30 ngày	Tất cả các cuộc gọi nội mạng <=10 phút (tối đa 1500ph) + 30 phút gọi ngoại mạng + 1GB Data/ngày + Phần mềm bảo mật Kaserpersky. Hết lưu lượng tốc độ cao ngừng truy cập.
+	594.000	6BM99N
+	180 ngày	210 ngày	
+	1.188.000	12BM99N
+	360 ngày	420 ngày
+	
+Bảo mật 120	120.000	BM120	30 ngày	30 ngày	
+Tất cả các cuộc gọi nội mạng <=10 phút (tối đa 1500ph) + 30 phút gọi ngoại mạng.
++ 1,5GB Data/ngày và Phần mềm bảo mật Kaserpersky. Hết lưu lượng tốc độ cao ngừng truy cập.
+	720.000	6BM120	180 ngày	210 ngày	
+	1.440.000	12BM120	360 ngày	420 ngày
+	
+Bảo mật 79	79.000	BM79	30 ngày	30 ngày	1GB Data/ngày + Phần mềm bảo mật Kaserpersky Safe kid. Hết lưu lượng tốc độ cao ngừng truy cập.
+	474.000	6BM79	180 ngày	210 ngày
+	
+	948.000	12BM79	360 ngày	420 ngày
+	
+
+6. CÁC GÓI CƯỚC CHƠI GAME:
+Tên gói cước	Ưu đãi	Phù hợp với nhu cầu chơi game nào	Giá gói cước
+GM1
+•	Miễn phí Data truy cập Liên quân Mobile, Free Fire, Fifa Online 4	Liên quân Mobile, Free Fire, Fifa Online 4	5.000 đồng/ngày
+GM30
+•	Miễn phí toàn bộ data truy cập các ứng dụng Liên Quân Mobile, Free Fire, Fifa Online 4 Mobile	Liên Quân Mobile, Free Fire, Fifa Online 4 Mobile	50.000 đồng/tháng
+DGM
+•	4 GB data
+•	Miễn phí toàn bộ data truy cập các ứng dụng Liên Quân Mobile, Free Fire, Fifa Online 4 Mobile	Liên Quân Mobile, Free Fire, Fifa Online 4 Mobile	79.000 đồng/tháng
+
+7. TƯ LIỆU TRUYỀN THÔNG:
+ 
+CÁC GÓI DATA SIÊU KHỦNG
+ 
+CÁC GÓI SIÊU TỐC ĐỘ TRÙM GIẢI TRÍ ĐẶC BIỆT LÀ YOLO100M
+ 
+GÓI D159V LÀ 1 GÓI COMBO DATA SIÊU KHỦNG, GỌI, NHẮN TIN THẢ GA
+ 
+CÁC GÓI AN TOÀN BẢO MẬT: ONLINE AN TOÀN, DỄ DÀNG KẾT NỐI
+ 
+GÓI YOLO100M ƯU ĐÃI HSSV TRONG ĐÓ MIỄN PHÍ CHỌN SỐ NĂM SINH
+ 
+CÁC GÓI CHO GIỚI TRẺ: FB7, TK7, VÔ CỰC
+ 
+GÓI DATA SIÊU KHỦNG KÈM THOẠI KHỦNG
+ 
+GÓI THÂM CANH TRÊN BRCĐ CỦA VINAPHONE
+ 
+GÓI CHƠI GAME CỦA VINAPHONE
+ 
+GÓI DATA KHỦNG YOLO125V
+CÁC GÓI CƯỚC BĂNG RỘNG CỐ ĐỊNH, MYTV
+1. GÓI CƯỚC HOME INTERNET
+TT	Gói cước	Home Net 1	Home Net 2	Home Net 3	Home Net 4	Home Net 6	Home Net 7
+	Gói dịch vụ	FV100	FV150	FV200	FV250	FV500	
+1	Thành phần gói cước
+	Tốc độ Fiber VNN	100Mbps	150Mbps	200Mbps	250Mbps	300Mbps	300Mbps ULM
+	Dịch vụ GTGT	Dịch vụ GreenNet
+2	Giá các gói cước (VNĐ-có VAT) 
+2.1	Lai Châu
+	Hàng tháng	165.000	180.000	209.000	219.000	499.000	279.000
+	Gói 3 tháng	495.000	540.000	627.000	657.000	1.497.000	837.000
+	Gói 6/7 tháng	990.000	1.080.000	1.254.000	1.314.000	2.994.000	1.674.000
+	Gói 13/14 tháng	1.980.000	2.160.000	2.508.000	2.628.000	5.988.000	3.348.000
+
+2. GÓI CƯỚC HOME INTERNET +WIFI MESH
+TT	Gói cước	HOME MESH 1	HOME MESH 2	HOME MESH 3	HOME MESH 4	HOME MESH 6	HOME MESH 7
+	Gói dịch vụ	FV100	FV150	FV200	FV250	FV500	FV500
+1	Thành phần gói cước
+	Tốc độ Fiber VNN	100Mbps	150Mbps	200Mbps	250Mbps	500Mbps	300Mbps ULM
+	Thiết bị Mesh	01 Wifi Mesh 5	01 Wifi Mesh 5	01 Wifi Mesh 5	02 Wifi Mesh 5 hoặc
+01 Wifi Mesh6	03 Wifi Mesh 5 hoặc
+02 Wifi Mesh 6 01 IP tĩnh + Cam kết tối thiểu 2Mbps tốc độ quốc tế	03 Wifi Mesh 5 hoặc
+02 Wifi Mesh 6 
+	Dịch vụ	Dịch vụ GreenNet
+2	Giá các gói cước (VNĐ-có VAT) 
+2.1	Lai Châu
+	Hàng tháng	195.000	210.000	239.000	249.000	589.000	299.000
+	Gói 3 tháng	585.000	630.000	717.000	747.000	1.767.000	897.000
+	Gói 6/7 tháng	1.170.000	1.260.000	1.434.000	1.494.000	3.534.000	1.794.000
+	Gói 13/14 tháng	2.340.000	2.520.000	2.868.000	2.988.000	7.068.000	3.588.000
+ 
+3. GÓI CƯỚC HOME INTERNET + MYTV (HOMETV)
+
+TT	
+Gói cước	
+Nội dung gói cước	Lai Châu
+(VNĐ-có VAT)
+			Hàng tháng	Gói 3 tháng	Gói 6/7 tháng	Gói 13/14 tháng
+I. MY TV + APP
+
+1	HOME NET 1+ (NC)	Internet: 100 Mbps 
+Dịch vụ: MyTV NC App
+Dịch vụ GreenNet	195.000	585.000	1.170.000	2.340.000
+
+2	HOME NET 2+ (Chuẩn)	Internet: 150 Mbps 
+Dịch vụ: MyTV chuẩn App
+Dịch vụ GreenNet	190.000	570.000	1.140.000	2.280.000
+
+3	HOME NET 2+ (NC)	Internet: 150 Mbps 
+Dịch vụ: MyTV NC App
+Dịch vụ GreenNet	210.000	630.000	1.260.000	2.520.000
+
+4	HOME NET 3+ (Chuẩn)	Internet: 200 Mbps 
+Dịch vụ: MyTV chuẩn App
+Dịch vụ GreenNet	219.000	657.000	1.314.000	2.628.000
+
+5	HOME NET 3+ (NC)	Internet: 200 Mbps 
+Dịch vụ: MyTV NC App
+Dịch vụ GreenNet	239.000	717.000	1.434.000	2.868.000
+
+6	HOME NET 4+ (Chuẩn)	Internet: 250 Mbps 
+Dịch vụ: MyTV chuẩn App
+Dịch vụ GreenNet	229.000	687.000	1.374.000	2.748.000
+
+7	HOME NET 4+ (NC)	Internet: 250 Mbps 
+Dịch vụ: MyTV NC App
+Dịch vụ GreenNet	249.000	747.000	1.494.000	2.988.000
+
+8	HOME NET 7+ (Chuẩn)	Internet: 300 Mbps 
+Dịch vụ: MyTV chuẩn App
+Dịch vụ GreenNet	279.000	837.000	1.674.000	3.348.000
+
+9	HOME NET 7+ (NC)	Internet: 300 Mbps ULM
+Dịch vụ: MyTV NC App
+Dịch vụ GreenNet	299.000	897.000	1.794.000	3.588.000
+						
+II. MY TV +STB
+
+1	HOME NET 1+ (Chuẩn)	Internet: 100 Mbps 
+Dịch vụ: MyTV chuẩn STB
+Dịch vụ GreenNet	205.000	615.000	1.230.000	2.460.000
+
+2	HOME NET 1+ (NC)	Internet: 100 Mbps 
+Dịch vụ: MyTV NC STB
+Dịch vụ GreenNet	225.000	675.000	1.350.000	2.700.000
+
+3	HOME NET 2+ (Chuẩn)	Internet: 150 Mbps 
+Dịch vụ: MyTV chuẩn STB
+Dịch vụ GreenNet	220.000	660.000	1.320.000	2.640.000
+
+4	HOME NET 2+ (NC)	Internet: 150 Mbps 
+Dịch vụ: MyTV NC STB
+Dịch vụ GreenNet	240.000	720.000	1.440.000	2.880.000
+
+5	HOME NET 3+ (Chuẩn)	Internet: 200 Mbps 
+Dịch vụ: MyTV chuẩn STB
+Dịch vụ GreenNet	249.000	747.000	1.494.000	2.988.000
+
+6	HOME NET 3+ (NC)	Internet: 200 Mbps 
+Dịch vụ: MyTV NC STB
+Dịch vụ GreenNet	269.000	807.000	1.614.000	3.228.000
+
+7	HOME NET 4+ (Chuẩn)	Internet: 250 Mbps 
+Dịch vụ: MyTV chuẩn STB
+Dịch vụ GreenNet	259.000	777.000	1.554.000	3.108.000
+
+8	HOME NET 4+ (NC)	Internet: 250 Mbps 
+Dịch vụ: MyTV NC STB
+Dịch vụ GreenNet	279.000	837.000	1.674.000	3.348.000
+
+9	HOME NET 7+ (Chuẩn)	Internet: 300 Mbps 
+Dịch vụ: MyTV chuẩn STB
+Dịch vụ GreenNet	309.000	927.000	1.854.000	3.708.000
+
+10	HOME NET 7+ (NC)	Internet: 300 Mbps ULM
+Dịch vụ: MyTV NC STB
+Dịch vụ GreenNet	329.000	987.000	1.974.000	3.948.000
+
+4. GÓI CƯỚC HOME INTERNET +WIFI MESH + MYTV (HOMETV+MESH)
+
+TT	
+Gói cước	
+Nội dung gói cước	Lai Châu
+(VNĐ-có VAT)
+			Hàng tháng	Gói 3 tháng	Gói 6/7 tháng	Gói 13/14 tháng
+I. MY TV + APP
+
+1	HOME MESH 1 + (Chuẩn)	Internet: 100 Mbps 
+Dịch vụ: MyTV chuẩn STB
+01 Wifi Mesh 5
+Dịch vụ GreenNet	225.000	675.000	1.350.000	2.700.000
+
+2	HOME MESH 1 + (NC)	Internet: 100 Mbps 
+Dịch vụ: MyTV NC App
+01 Wifi Mesh 5
+Dịch vụ GreenNet	215.000	645.000	1.290.000	2.580.000
+
+3	HOME MESH 2 + (Chuẩn)	Internet: 150 Mbps 
+Dịch vụ: MyTV chuẩn App
+01 Wifi Mesh 5
+Dịch vụ GreenNet	220.000	660.000	1.320.000	2.640.000
+
+4	HOME MESH 2 + (NC)	Internet: 150 Mbps 
+Dịch vụ: MyTV NC App
+01 Wifi Mesh 5
+Dịch vụ GreenNet	240.000	720.000	1.440.000	2.880.000
+
+5	HOME MESH 3+ (Chuẩn)	Internet: 200 Mbps 
+Dịch vụ: MyTV chuẩn App
+01 Wifi Mesh 5
+Dịch vụ GreenNet	249.000	747.000	1.494.000	2.988.000
+
+6	HOME MESH 3+ (NC)	Internet: 200 Mbps 
+Dịch vụ: MyTV NC App
+01 Wifi Mesh 5
+Dịch vụ GreenNet	269.000	807.000	1.614.000	3.228.000
+
+7	HOME MESH 4+ (Chuẩn)	Internet: 250 Mbps 
+Dịch vụ: MyTV chuẩn App
+02 Wifi Mesh 5
+Hoặc 01 Wifi Mesh 6
+Dịch vụ GreenNet	259.000	777.000	1.554.000	3.108.000
+
+8	HOME MESH 4+ (NC)	Internet: 250 Mbps 
+Dịch vụ: MyTV NC App
+02 Wifi Mesh 5
+Hoặc 01 Wifi Mesh 6
+Dịch vụ GreenNet	279.000	837.000	1.674.000	3.348.000
+
+9	HOME MESH 7+ (Chuẩn)	Internet: 300 Mbps ULM
+Dịch vụ: MyTV chuẩn App
+03 Wifi Mesh 5 
+Hoặc 02 Wifi Mesh 6
+Dịch vụ GreenNet	299.000	897.000	1.794.000	3.588.000
+10	HOME MESH 7+ (NC)	Internet: 300 Mbps  ULM
+Dịch vụ: MyTV NC App
+03 Wifi Mesh 5 
+Hoặc 02 Wifi Mesh 6
+Dịch vụ GreenNet	319.000	957.000	1.914.000	3.828.000
+II. MY TV +STB
+
+1	HOME MESH 1 + (Chuẩn)	Internet: 100 Mbps 
+Dịch vụ: MyTV chuẩn STB
+01 Wifi Mesh 5
+Dịch vụ GreenNet	225.000	675.000	1.350.000	2.700.000
+
+2	HOME MESH 1 + (NC)	Internet: 100 Mbps 
+Dịch vụ: MyTV NC STB
+01 Wifi Mesh 5
+Dịch vụ GreenNet	245.000	735.000	1.470.000	2.940.000
+
+3	HOME MESH 2 + (Chuẩn)	Internet: 150 Mbps 
+Dịch vụ: MyTV chuẩn STB
+01 Wifi Mesh 5
+Dịch vụ GreenNet	250.000	750.000	1.500.000	3.000.000
+
+4	HOME MESH 2 + (NC)	Internet: 150 Mbps 
+Dịch vụ: MyTV NC STB
+01 Wifi Mesh 5
+Dịch vụ GreenNet	270.000	810.000	1.620.000	3.240.000
+
+5	HOME MESH 3+ (Chuẩn)	Internet: 200 Mbps 
+Dịch vụ: MyTV chuẩn STB
+01 Wifi Mesh 5
+Dịch vụ GreenNet	279.000	837.000	1.674.000	3.348.000
+
+6	HOME MESH 3+ (NC)	Internet: 200 Mbps 
+Dịch vụ: MyTV NC STB
+01 Wifi Mesh 5
+Dịch vụ GreenNet	299.000	     897.000 	 1.794.000 	 3.588.000 
+
+7	HOME MESH 4+ (Chuẩn)	Internet: 250 Mbps 
+Dịch vụ: MyTV chuẩn STB
+02 Wifi Mesh 5
+Hoặc 01 Wifi Mesh 6
+Dịch vụ GreenNet	289.000	867.000	1.734.000	3.468.000
+
+8	HOME MESH 4+ (NC)	Internet: 250 Mbps 
+Dịch vụ: MyTV NC STB
+02 Wifi Mesh 5
+Hoặc 01 Wifi Mesh 6
+Dịch vụ GreenNet	  309.000 	     927.000 	 1.854.000 	 3.708.000 
+9	HOME MESH 7+ (Chuẩn)	Internet: 300 Mbps ULM
+Dịch vụ: MyTV chuẩn STB
+03 Wifi Mesh 5 
+Hoặc 02 Wifi Mesh 6
+Dịch vụ GreenNet	329.000	987.000	1.974.000	3.948.000
+
+10
+	HOME MESH 7+ (NC)	Internet: 300 Mbps ULM
+Dịch vụ: MyTV NC STB
+03 Wifi Mesh 5 
+Hoặc 02 Wifi Mesh 6
+Dịch vụ GreenNet	  349.000 	  1.047.000 	 2.094.000 	 4.188.000 
+ 
+5. GÓI CƯỚC HOME INTERNET + CAMERA
+TT	Gói cước	HOME CAM 1	HOME CAM 2
+	Gói dịch vụ	FV100	FV150
+1	Thành phần gói cước		
+	Tốc độ Fiber VNN	100Mbps	150Mbps
+	Thiết bị Camera	01 Camera Indoor	01 Camera Outdoor	01 Camera Indoor	01 Camera Outdoor
+	Dịch vụ GTGT	GreenNet
+2	Giá các gói cước (VNĐ-có VAT) 
+2.1	Lai Châu
+	Hàng tháng	205.000	225.000	220.000	240.000
+	Gói 3 tháng	615.000	675.000	660.000	720.000
+	Gói 6/7 tháng	1.230.000	1.350.000	1.320.000	1.440.000
+	Gói 12/14 tháng	2.460.000	2.700.000	2.640.000	2.880.000
+
+6. GÓI CƯỚC HOME INTERNET + CAMERA+WIFIMESH
+TT	Gói cước	HOME BIG 1	HOME BIG 2
+	Gói dịch vụ	FV100	FV150
+1	Thành phần gói cước		
+	Tốc độ Fiber VNN	100Mbps	150Mbps
+	Thiết bị Camera	01 Camera Indoor	01 Camera Outdoor	01 Camera Indoor	01 Camera Outdoor
+	Thiết bị Wifi Mesh	01 Wifi Mesh 5
+	Dịch vụ GTGT	GreenNet
+2	Giá các gói cước (VNĐ-có VAT) 
+2.1	Lai Châu
+	Hàng tháng	235.000	255.000	250.000	290.000
+	Gói 3 tháng	705.000	765.000	750.000	870.000
+	Gói 6/7 tháng	1.410.000	1.530.000	1.500.000	1.740.000
+	Gói 12/14 tháng	2.820.000	3.060.000	3.000.000	3.480.000
+7. CÁC GÓI CƯỚC KHU VỰC CẠNH TRANH
+TT	Gói cước	HOME NET 2_CT	HOME NET 2+_CT	HOME NET 3_CT	HOME NET 3+_CT
+	Gói dịch vụ	FV150	FV150	FV200	FV200
+1	Thành phần gói cước		
+	Tốc độ Fiber VNN	150 Mpbs	150 Mpbs	200 Mpbs	200 Mpbs
+	Dịch vụ MyTV		MyTV NC		MyTV NC
+	Thiết bị Wifi Mesh	01 Wifi Mesh 5
+	Dịch vụ GTGT	GreenNet
+2	Giá các gói cước (VNĐ-có VAT) 
+2.2	Lai Châu
+	Hàng tháng	195.000	215.000	209.000	229.000
+	Gói 3 tháng	585.000	645.000	627.000	687.000
+	Gói 6/7 tháng	1.170.000	1.290.000	1.254.000	1.374.000
+	Gói 12/14 tháng	2.340.000	2.580.000	2.508.000	2.748.000
+
+
+TT	Gói cước	HOME NET 2_CT	HOME NET 2+_CT	HOME NET 3_CT	HOME NET 3+_CT
+	Gói dịch vụ	FV150	FV150	FV200	FV200
+1	Thành phần gói cước		
+	Tốc độ Fiber VNN	150 Mpbs	150 Mpbs	200 Mpbs	200 Mpbs
+	Dịch vụ MyTV		MyTV NC		MyTV NC
+	Thiết bị Wifi Mesh	01 Wifi Mesh 6
+	Dịch vụ GTGT	GreenNet
+2	Giá các gói cước (VNĐ-có VAT) 
+2.2	Lai Châu
+	Hàng tháng	210.000	230.000	224.000	244.000
+	Gói 3 tháng	630.000	690.000	672.000	732.000
+	Gói 6/7 tháng	1.260.000	1.380.000	1.344.000	1.464.000
+	Gói 12/14 tháng	2.520.000	2.760.000	2.688.000	2.928.000
+
+8. GÓI HOME MOBILE
+TT	Gói cước	Home Mobile
+1	FiberVNN	150 Mbps
+2	Di động	
+2.1	Thoại trong nhóm	Cuộc gọi nội mạng giữa các thuê bao di động trong nhóm: Các thành viên trong gói Home Mobile được gọi cho nhau sử dụng 1.000 phút.
+2.2	Dung lượng Data dùng chung trong nhóm (GB)	15GB
+2.3	Số lượng thành viên tối đa trong nhóm	6
+3	Gói TB cố định	
+3.1	Số thành viên cố định (không bao gồm GPhone)	2
+3.2	Thoại trong nhóm	Đối với thành phần điện thoại cố định: Được sử dụng cuộc gọi nội nhóm (không giới hạn thời lượng/cuộc gọi, giới hạn tổng thời lượng 500 phút/tháng)
+Thành phần cố định bao gồm các hướng thuê bao cố định gọi đi thuê bao cố định và thuê bao cố định gọi đi thuê bao di động trong nhóm
+4	Giá cước (VNĐ-có VAT)	
+	Hàng tháng	235.000
+	3 tháng	705.000
+	6/7 tháng	1.410.000
+	13/14 tháng	2.820.000
+9. GÓI HOME COMBO
+Lưu ý: Giá gói cước chưa bao gồm thiết bị Set-top-box (STB) của dịch vụ MyTV. Trường hợp bổ sung STB, giá cước bao gồm chi phí thiết bị STB theo quy định hiện hành.
+9.1. Home Combo 1
+GÓI CƯỚC 	HOME TIẾT KIỆM	HOME KẾT NỐI	HOME GIẢI TRÍ	HOME THỂ THAO	HOME ĐỈNH
+Giá gói 1 tháng 
+(VNĐ-có VAT)	239.000	299.000	309.000	393.000	279.000
+Giá gói 3 tháng 
+(VNĐ-có VAT)	717.000	897.000	927.000	1.179.000	837.000
+Giá gói 6/7 tháng 
+(VNĐ-có VAT)	1.434.000	1.794.000	1.854.000	2.358.000	1.674.000
+Giá gói 13/14 tháng 
+(VNĐ-có VAT)	2.868.000	3.588.000	3.708.000	4.716.000	3.348.000
+FiberVNN	150 Mbps	200 Mbps	200 Mbps	200 Mbps	200 Mbps
+Sử dụng Tốc độ cao Fiber	X	Ưu tiên đường tốc độ 200Mpbs vào ứng dụng 
+ Zalo	Ưu tiên đường tốc độ 200Mpbs vào các trang Fim+, Nhaccuatui	Ưu tiên đường riêng tốc độ cao 300Mpbs vào MyTV	X
+Dịch vụ MyTV 	Gói MyTV Chuẩn	Gói MyTV nâng cao	Gói MyTV nâng cao	Gói MyTV nâng cao + K+	Gói MyTV nâng cao
+Data	15 GB
+Chia sẻ	30 GB
+Chia sẻ	30 GB
+Chia sẻ	30 GB
+Chia sẻ	2 GB/ ngày
+Thoại nhóm	Thoại nội nhóm giữa các thuê bao di động thành viên
+Thoại nội mạng 	1.000 phút thoại nội mạng chia sẻ	1.000 phút
+Thoại ngoại mạng	X	50 phút	X	X	50 phút
+Sử dụng DV GTGT	X	Data truy cập dịch vụ Zalo 	Data và nội dung Galaxy Play chuẩn và Nhaccuatui chuẩn	X	X
+Số lượng thành viên (bao gồm chủ nhóm)	Tối đa 5 thành viên	Tối đa 4 thành viên
+
+9.2. Home Combo 2 (có Wifi Mesh): 
+GÓI CƯỚC 	HOME KẾT NỐI 2	HOME GIẢI TRÍ 2	HOME THỂ THAO 2	HOME ĐỈNH 2
+Giá gói 1 tháng 
+(đ-đã có VAT)	359.000	369.000	453.000	339.000
+Giá gói 3 tháng 
+(đ-đã có VAT)	1.077.000	1.107.000	1.359.000	1.017.000
+Giá gói 6/7 tháng 
+(VNĐ-có VAT)	2.154.000	2.214.000	2.718.000	2.034.000
+Giá gói 13/14 tháng 
+(VNĐ-có VAT)	4.308.000	4.428.000	5.436.000	4.068.000
+FiberVNN	300 Mbps	300 Mbps	300 Mbps	300 Mbps
+Thiết bị Mesh	01 Mesh 5	01 Mesh 5	01 Mesh 5	01 Mesh 5
+Sử dụng Tốc độ cao Fiber	Ưu tiên đường tốc độ 300Mpbs vào ứng dụng Zalo	Ưu tiên đường tốc độ 300Mpbs vào các trang Galaxy Play, Nhaccuatui	Ưu tiên đường riêng tốc độ cao 300Mpbs vào MyTV	X
+Dịch vụ MyTV (App) 	MyTV nâng cao	MyTV nâng cao	Gói MyTV nâng cao + 
+Chùm kênh K+	MyTV nâng cao
+Data	30 GB
+Chia sẻ	30 GB
+Chia sẻ	30 GB
+Chia sẻ	2 GB/ ngày
+Thoại nhóm	Thoại nội nhóm giữa các thuê bao di động thành viên
+Thoại nội mạng 	1.000 phút thoại nội mạng chia sẻ	1.000 phút
+Thoại ngoại mạng	50 phút	X	X	50 phút 
+Sử dụng DV GTGT	Data truy cập dịch vụ Zalo	Data và nội dung Gói cước Galaxy Play chuẩn và Nhaccuatui chuẩn	X	X
+Số lượng thành viên (gồm chủ nhóm)	Tối đa 5 thành viên (đã bao gồm chủ nhóm)	Tối đa 4 thành viên
+
+9.3. Gói cước Home Combo 2 (không Wifi Mesh): 
+GÓI CƯỚC 	HOME KẾT NỐI 2	HOME GIẢI TRÍ 2	HOME THỂ THAO 2	HOME ĐỈNH 2
+Giá gói 1 tháng 
+(VNĐ-có VAT)	349.000	359.000	443.000	329.000
+Giá gói 3 tháng 
+(đ-đã có VAT)	1.047.000	1.077.000	1.329.000	987.000
+Giá gói 6/7 tháng 
+(VNĐ-có VAT)	2.094.000	2.154.000	2.658.000	1.974.000
+Giá gói 13/14 tháng 
+(VNĐ-có VAT)	4.188.000	4.308.000	5.316.000	3.948.000
+FiberVNN	300 Mbps	300 Mbps	300 Mbps	300 Mbps
+Sử dụng Tốc độ cao Fiber	Ưu tiên đường tốc độ 300Mpbs vào ứng dụng Zalo	Ưu tiên đường tốc độ 500Mpbs vào các trang Galaxy Play, Nhaccuatui, MyTV	Ưu tiên đường riêng tốc độ cao 300Mpbs vào MyTV	X
+Dịch vụ MyTV (App) 	MyTV nâng cao	MyTV nâng cao	Gói MyTV nâng cao + 
+Chùm kênh K+	MyTV nâng cao + Galaxy Play (Fim+) cao cấp
+Data	30 GB
+Chia sẻ	30 GB
+Chia sẻ	30 GB
+Chia sẻ	2 GB/ ngày
+Thoại nhóm	Thoại nội nhóm giữa các thuê bao di động thành viên
+Thoại nội mạng 	1.000 phút thoại nội mạng chia sẻ	1.000 phút
+Thoại ngoại mạng	50 phút	X	X	50 phút 
+Sử dụng DV GTGT	Data truy cập dịch vụ Zalo	Data và nội dung Gói cước Galaxy Play chuẩn và Nhaccuatui chuẩn	X	X
+Số lượng thành viên (gồm chủ nhóm)	Tối đa 5 thành viên (đã bao gồm chủ nhóm)	Tối đa 4 thành viên
+10. GÓI HOME SÀNH
+TT	GÓI CƯỚC 	HOME SÀNH 2 	HOME SÀNH 4 
+1	Giá gói 1 tháng (VNĐ-có VAT)	239.000	279.000
+2	Giá gói 3 tháng (VNĐ-có VAT)	717.000	837.000
+3	Giá gói 6/7 tháng (VNĐ-có VAT)	1.434.000	1.674.000
+4	Giá gói 13/14 tháng (VNĐ-có VAT)	2.868.000	3.348.000
+5	FiberVNN	150 Mbps	200 Mbps
+6	Thoại nhóm	Thoại nội nhóm giữa các thuê bao di động thành viên	Thoại nội nhóm giữa các thuê bao di động thành viên
+7	Ưu đãi cho chủ nhóm	 	 
+7.1	Data di động của chủ nhóm	3GB/ngày	3GB/ngày
+7.2	Thoại nội mạng của chủ nhóm	1500 phút	1500 phút
+7.3	Thoại ngoại mạng chủ nhóm	89 phút	89 phút
+8	Số lượng thành viên (bao gồm cả chủ nhóm)	Tối đa 6 thành viên	Tối đa 6 thành viên
+
+11. GÓI HOME CHẤT
+TT
+GÓI CƯỚC	HOME CHẤT 2	HOME CHẤT 4	HOME CHẤT 6
+1	Giá gói 1 tháng 
+(VNĐ-có VAT)	274.000	274.000	314.000
+2	Giá gói 7 tháng 
+(VNĐ-có VAT)	1.644.000	1.644.000	1.884.000
+3	Giá gói 14 tháng 
+(VNĐ-có VAT)	3.288.000	3.288.000	3.768.000
+4	FiberVNN	150 Mbps	200 Mbps	300 Mbps
+5	Dịch vụ MyTV (App)	MyTV Nâng cao Plus	MyTV Nâng cao Plus	MyTV Nâng cao Plus
+6	Mesh	X	X	01 Wifi Mesh 5
+7	Thoại nhóm	Thoại nội nhóm giữa các thuê bao di động thành viên
+8	Chính sách cho chủ nhóm 
+8.1	Data di động của chủ nhóm	3GB/ ngày	3GB/ngày	3GB/ ngày
+8.2	Thoại nội mạng của chủ nhóm	1500 phút	1500 phút	1500 phút
+8.3	Thoại ngoại mạng chủ nhóm	89 phút	89 phút	89 phút
+8.4	Sử dụng DV GTGT cho chủ nhóm	Không trừ cước Data truy cập ứng dụng Zalo. Youtube; Tiktok. MyTV
+9	Số lượng thành viên (bao gồm cả chủ nhóm)	Tối đa 6 thành viên
+	Lưu ý: Giá gói cước chưa bao gồm chi phí thiết bị STB của dịch vụ MyTV. Trường hợp bổ sung STB, giá cước bổ sung chi phí thiết bị STB theo quy định hiện hành./.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+11. KỊCH BẢN TIẾP XÚC KHÁCH HÀNG
+11.1. KH mới:
+Các bước
+ thực hiện	Nội dung NVKD/CTV  thực hiện (trước/ trong/ sau bán hàng)	KB chi tiết	Mẫu câu gợi ý	Lưu ý
+1.  ĐỐI TƯỢNG KHÁCH HÀNG MỚI CHƯA SỬ DỤNG DV VNPT	 
+Bước 1	Chuẩn bị 
+(Trước khi gặp Khách hàng)	Chuẩn bị công cụ dụng cụ:
+- Saleskit: Phục vụ NVKD ghi nhớ thông tin SPDV và tư vấn Khách hàng
+- Tờ rơi: Phục vụ chào mời, giới thiệu SPDV tới Khách hàng
+- Thiết bị MyTV, Mesh, Camera: Phục vụ giới thiệu sản phẩm, tư vấn gói cước bundle thiết bị có ARPU cao.	 	Bắt buộc phải có
+		- Khảo sát/thu thập sơ bộ thông tin Khách hàng:
+- Địa chỉ, Số liên hệ nội/ngoại mạng VNPT
+- Dịch vụ khách hàng đang sử dụng: Do VNPT cung cấp/ đối thủ cung cấp như internet, truyền hình, di dộng, camera...
+- Đặc tính nhà ở KH: Nhà 1 tầng hay nhiều tầng.
+- Loại hình kinh doanh: Hộ gia đình / Hộ kinh doanh cá thể (Cafe, hotel, nhà trọ, tạp hóa, nhà hàng...)		Bắt buộc phải thực hiện
+Bước 2	Đặt lịch hẹn	OB/ gọi điện/ gửi SMS/ Push App/  Message Fanpage	 	Bắt buộc phải thực hiện
+Bước 3 	Tiếp cận, tư vấn bán gói (Trong khi bán hàng)	Chào hỏi KH, giới thiệu về bản thân và mục đích có mặt của NV VNPT	Giới thiệu và đặt câu hỏi gợi mở:
+- Em chào anh/chị ạ, em là […] nhân viên nhà mạng VNPT. Em xin phép được trao đổi và hỗ trợ anh/chị một số ưu đãi về dịch vụ internet và truyền hình của nhà mạng VNPT. 
+
+- Anh/chị cho em hỏi nhà mình đang sử dụng internet do nhà mạng nào cung cấp ạ (Trường hợp quan sát được KH đang sử dụng của nhà mạng nào thì không cần hỏi)
+
+- "Để nâng cao chất lượng internet, từ 1/7 VNPT đã triển khai bán các gói Internet cáp quang tốc độ cao, tăng tốc độ truy cập mạng từ 100Mbps trở lên, duy trì độ ổn định mượt mà, giúp đáp ứng mọi nhu cầu sử dụng của gia đình (hộ kinh doanh ....) cùng nhiều ưu đãi hấp dẫn, A/c cho em xin vài phút để tư vấn chương trình này ạ?"	Nêu bật sự khác biệt giữa VNPT và các nhà mạng khác:  Anh/chị  lựa chọn gói cước internet sẽ được trang bị thêm các thiết bị Camera giám sát, Thiết bị Mesh mở rộng vùng phủ sóng wifi tốc độ cao, dịch vụ truyền hình, thể thao, giải trí, ca nhạc đa kênh. 
+Đặc biệt, Các thiết bị và dịch vụ này có sẵn trong gói cước, VNPT cung cấp trọn gói từ triển khai, lắp đặt, sửa chữa, bảo hành, bảo trì. Anh/chị an tâm sử dụng dịch vụ mà không mất chi phí mua thiết bị. 
+Trong trường hợp thiết bị hỏng hóc, VNPT sẽ thay thế một thiết bị khác và liên tục cho đến khi anh/chị không sử dụng dịch vụ Internet VNPT nữa.
+ 	Tìm hiểu nhu cầu KH	 	VNPT cung cấp linh động, đa dạng các gói cước để Anh/Chị lựa chọn theo nhu cầu riêng của từng gia đình.
+Để tư vấn chính xác hơn, em xin phép khảo sát thêm về các nhu cầu sử dụng của mình:
+- Mức tiêu dùng Internet và truyền hình trong 1 tháng
+- Tốc độ internet trung bình/cao
+- Mở rộng vùng phủ sóng wifi mặt sàn/các phòng/các tầng
+- Giám sát trong nhà/ngoài trời
+- Truyền hình, thể thao, giải trí đa kênh
+- KH sử dụng Tivi thông minh/Tivi thường	 
+ 	Tư vấn, nhấn mạnh ưu điểm gói cước cho KH	- Giới thiệu về sản phẩm/gói cước, nêu lợi ích, ưu đãi, tốc độ thay đổi so với gói cước cũ… (Tùy theo sở thích, nhu cầu sử dụng của KH để đưa ra tư vấn gói phù hợp): 	Sau khi khảo sát nhu cầu, NV tư vấn gói cước phù hợp
+- Mẫu câu gợi ý tư vấn gói Home Internet: 
+" Chỉ với 180.000đ, A/c đã đăng ký được Gói Home Net 2 với tốc độ 150Mbps đáp ứng tốt nhu cầu của cả gia đình và con cái cho việc học tập và giải trí. Đặc biệt A/c được tặng thêm DV GreenNet giúp A/c tự động ngăn chặn việc các bé truy cập đến các trang web độc hại như: sex, bạo lực, cờ bạc…Với DV GreenNet sẽ mang đến cho gia đình mình (A/c) một môi trường Internet an toàn và lành mạnh"
+'- Mẫu câu gợi ý tư vấn gói Home Internet+Mesh:
+" Chỉ với 205.000 đồng (hoặc chỉ với 7k/ngày), A/c có thể đăng ký gói Home Mesh 1 + với tốc độ truy cập lên đến 100Mbps, App MyTV nâng cao, tặng 01 Wifi Mesh , DV GreenNet giúp A/c tự động ngăn chặn việc các bé truy cập đến các trang web độc hại như: sex, bạo lực, cờ bạc...	
+-  Lưu ý: Khi tư vấn gói cước có thể chia nhỏ giá gói theo ngày để KH cảm thấy rẻ hơn (VD: gói cước 180k => Chỉ với 6k/ngày a/c có thể sử dụng gói cước Home Net 2 tốc độ cao…)
+ 		Cung cấp giá cước đấu nối hòa mạng 	Mẫu câu tư vấn cước hòa mạng:
+- " Để hòa mạng gói cước BR, Anh/chị đóng cước đấu nối DV duy nhất một lần là 300.000 đồng, sau này A/c có nâng cấp hay chuyển đổi gói cước cũng không mất phí nữa ạ"
+
+- " Chí phí lắp đặt DV internet theo quy định chung của các các mạng VNPT, Viettel, FPT đều là 300.000 đồng cho lần đầu lắp đặt và không thu thêm chi phí khi KH chuyển đổi gói cước."	Giá cước hòa mạng 300.000đ đã bao gồm VAT
+Thuê bao PTM : Tất cả các trường hợp gói cước tích hợp/đơn lẻ, gói trả trước và trả sau đều thu cước hòa mạng 300k/thuê bao
+Cung cấp cước đấu nối sau khi đã tư vấn xong ưu đãi gói cước
+ 	 	Các chương trình khuyến mãi đang áp dụng
+Các khuyến mãi đặc biệt	VNPT Khuyến mãi  tặng thêm 1 tháng sử dụng nếu AC đóng trước 6 tháng và 2 tháng sử dụng nếu AC đóng trước 12 tháng.	 
+ 	Tư vấn và chốt đơn hàng	 	KH lựa chọn gói cước theo nhu cầu và ký hợp đồng	 
+Bước 4	Chăm sóc sau bán hàng	- Lưu lại số ĐT liên hệ, kết bạn Zalo, FB với KH
+'- Chủ động gọi điện lại hỏi thăm và HDSD, tư vấn thêm DVGT cho KH 
+- NVKD tạo kênh chân rết	Em cảm ơn AC đã tin tưởng và sử dụng dịch vụ của VNPT, Thời điểm này VNPT đang có nhiều CTKM hấp dẫn, AC chia sẻ giới thiệu cho bạn bè, người thân để cùng hưởng các khuyến mãi. 
+Em xin phép kết bạn Zalo để hỗ trợ AC kịp thời các vấn đề và để thông báo tới AC các ưu đãi sắp tới bên em.	 
+11.2. KH hiện hữu
+
+
+Các bước
+ thực hiện	Nội dung NVKD/CTV  thực hiện (trước/ trong/ sau bán hàng)	KB chi tiết	Mẫu câu gợi ý	Lưu ý
+2.  ĐỐI TƯỢNG KHÁCH HÀNG HIỆN HỮU, CÓ NHU CẦU NÂNG GÓI	 
+Bước 1	Chuẩn bị 
+(Trước khi gặp Khách hàng)	Chuẩn bị công cụ dụng cụ:
+- Saleskit: Phục vụ NVKD ghi nhớ thông tin SPDV và tư vấn Khách hàng
+- Tờ rơi: Phục vụ chào mời, giới thiệu SPDV tới Khách hàng
+- Thiết bị MyTV, Mesh, Camera: Phục vụ giới thiệu sản phẩm, tư vấn gói cước bundle thiết bị có ARPU cao.	 	Bắt buộc phải có
+		- Khảo sát lại thông tin Khách hàng:
+- Dịch vụ khách hàng đang sử dụng của VNPT: Internet, di động trả trước, trả sau...		Bắt buộc phải thực hiện
+Bước 2	Đặt lịch hẹn	OB/ gọi điện/ gửi SMS/ Push App/  Message Fanpage	 	 
+Bước 3 	Tiếp cận, tư vấn bán gói (Trong khi bán hàng)	Chào hỏi KH, giới thiệu về bản thân và ưu đãi chung của gói cước	Mẫu câu giới thiệu: Áp dụng mẫu câu chào và giới thiệu bản thân như cũ:
+ Trước tiên, em xin cám ơn anh/chị đã sử dụng dịch vụ Internet cáp quang của VNPT.
+
+- "Để nâng cao chất lượng phục vụ KH, từ 1/7 VNPT bên em đã nâng cấp chất lượng dịch vụ và triển khai bán các gói Internet cáp quang tốc độ cao từ 100Mbps trở lên, đáp ứng mọi nhu cầu sử dụng của gia đình (hộ kinh doanh ....), A/c cho em xin vài phút để tư vấn  chương trình ưu đãi này nhé ạ?"
+
+- "Em xin phép Anh/chị vài phút để hỏi thăm về dịch vụ và giới thiệu đến A/C chính sách chăm sóc KH dành riêng cho gia đình mình được không ạ?Em xin phép Anh/chị vài phút để hỏi thăm về dịch vụ và giới thiệu đến A/C chính sách chăm sóc KH dành riêng cho gia đình mình được không ạ?"	 
+ 	Tìm hiểu nhu cầu của KH	
+' Đặt câu hỏi để tìm hiểu nhu cầu, sở thích và mức tiêu dùng hàng tháng của KH để tư vấn gói cước phù hợp 	Khảo sát thêm về các nhu cầu sử dụng, nâng cấp dịch vụ của KH:
+- Mức tiêu dùng Internet và truyền hình trong 1 tháng
+- Tốc độ internet trung bình/cao
+- Mở rộng vùng phủ sóng wifi mặt sàn/các phòng/các tầng
+- Giám sát trong nhà/ngoài trời
+- Truyền hình, thể thao, giải trí đa kênh
+- KH sử dụng Tivi thông minh/Tivi thường
+Gợi ý mẫu câu tư vấn:
+- KH có mức tiêu dùng >200K (đang SD gói Home 3 super: 220k/tháng)
+'- Gợi ý tư vấn gói Home Mesh 3+ : " Chỉ thêm 39K/tháng, Anh/ chị có thể đăng ký gói Home Mesh 3+ với rất nhiều ưu đãi vượt trội như tốc độ truy cập Inter net lên đến 200Mpbs, A/c có thể xem MyTV NC App mọi lúc, được tặng thêm 01 Wifi mesh 5 và DV Green Net giúp A/c tự động ngăn chặn việc các bé nhà mình truy cập đến các trang web độc hại như: sex, bạo lực, cờ bạc, ma túy...". Đặc biệt khi A/c thanh toán trước 6T sẽ được tặng thêm 01 tháng, 12T tặng thêm 02 tháng...	
+- NVKD nên tư vấn các gói cước có giá gói không cao hơn 50% giá gói KH đang SD, chỉ tăng khoảng 20-30% giá gói thì tỷ lệ tư vấn thành công cao hơn)
+ 	 	Cước đấu nối hòa mạng	Không thu cước hòa mạng đối với KH hiện hữu có nhu cầu chuyển đổi	 
+ 	 	Các chương trình khuyến mãi đang áp dụng
+Các khuyến mãi đặc biệt	VNPT Khuyến mãi  tặng thêm 1 tháng sử dụng nếu AC đóng trước 6 tháng và 2 tháng sử dụng nếu AC đóng trước 12 tháng.	 
+ 	Tư vấn và chốt đơn hàng	 	KH lựa chọn gói cước theo nhu cầu và ký hợp đồng	 
+Bước 4	Chăm sóc sau bán hàng	- Lưu lại số ĐT liên hệ, kết bạn Zalo, FB với KH
+'- Chủ động gọi điện lại hỏi thăm và HDSD, tư vấn thêm DVGT cho KH 
+- NVKD tạo kênh chân rết	Em cảm ơn AC đã tin tưởng và sử dụng dịch vụ của VNPT, Thời điểm này VNPT đang có nhiều CTKM hấp dẫn, AC chia sẻ giới thiệu cho bạn bè, người thân để cùng hưởng các khuyến mãi. 
+Em xin phép kết bạn Zalo để hỗ trợ AC kịp thời các vấn đề và để thông báo tới AC các ưu đãi sắp tới bên em.	 
+11.3. Điểm nổi bật các gói cước:
+STT	Dịch vụ/Thông tin	Mô tả 
+1	Tốc độ Fiber VNN	- Cung cấp các gói cước tốc độ tối thiểu 100Mbps, (cao hơn 1,5 lần so với tốc độ phổ biến trước đây) với giá gần như không thay đổi.
+- Đáp ứng tốt hơn nhu cầu kết nối của khách hàng, còn góp phần cải thiện trải nghiệm khách hàng ngay cả trong giờ cao điểm.
+- Trang bị cho khách hàng các thiết bị hiện đại hơn như Modem WiFi 2 băng tần, cung cấp bổ sung theo nhu cầu của khách hàng các thiết bị WiFi Mesh và nhiều ưu đãi khác như combo các dịch vụ wifi+ truyền hình+ di động, Camera an ninh… 
+2	Dịch vụ Greennet	Dịch vụ chặn web đen – GreenNet là dịch vụ của VNPT VINAPHONE dành riêng cho các khách hàng sử dụng Internet MegaVNN, FiberVNN. GreenNet giúp khách hàng tự động ngăn chặn việc truy cập đến các trang web độc hại như: sex, bạo lực, cờ bạc, ma túy, tự tử,…
+GreenNet cam kết mang đến cho khách hàng một môi trường Internet an toàn và lành mạnh.
+3	Mesh 6	Phù hợp với các doanh nghiệp, các tổ chức vừa và nhỏ, các gia đình có nhu cầu sử dụng internet cao
+Tốc độ lên đến 3Gbps, kết nối liền mạch, phủ mọi ngóc ngách, độ trễ giảm 50%, Hỗ trợ đồng thời 100 thiết bị
+4	Mesh 5	Tốc độ kết nối lên tới 120Mbps, liền mạch, ổn định với 1 tên Wifi và mật khẩu duy nhất. Hỗ trợ đồng thời 40 thiết bị truy cập internet. Đặc biệt kết hợp bộ 3 thiết bị cho khả năng phủ sóng tới 500m2.
+Phù hợp với các hộ gia đình, hộ kinh doanh cá thể có nhu cầu internet tốc độ cao và mở rộng vùng phủ sóng. Đáp ứng mọi cấu trúc nhà ở. Cài đặt lắp đặt dễ dàng đơn giản.
+5	Camera Ngoài trời/Trong nhà	Chất lượng hình ảnh sắc nét kể cả trong điều kiện thiếu ảnh sáng
+Góc quay rộng, tầm nhìn xa
+Tính năng phát hiện chuyển động, phát cảnh báo
+		Bảo mật toàn diện
+- Đạt giải ATTT Chìa khóa vàng
+- Đạt chuẩn OWASP
+- Sản xuất và quản lý hoàn toàn tại Việt Nam
+- Serve đặt tại Việt Nam
+		Quản lý Camera qua ứng dụng, hỗ trợ trên IOS và Androi
+6	MyTV	(1) Xem 178 kênh đa dạng về tin tức và giải trí, có đầy đủ các kênh phim truyện như HBO, kênh thể thao đặc sắc và các kênh VTV Cab đều có trên MyTV.
+(2) Các chương trình trên MyTV đều không bị quảng cáo giữa chừng.
+(3) Có nhiều nội dung cho trẻ con xem, không phải lo kiểm soát các nội dung xấu trên mạng
+ 
+12. TƯ LIỆU TRUYỀN THÔNG:
+ 
+ 
+ 
+ 
+
+
+ 
+
+
+
+
+DỊCH VỤ SMART CA – CA
+1. GIỚI THIỆU DỊCH VỤ
+VNPT SmartCA là dịch vụ chứng thực chữ ký số công cộng theo mô hình ký số từ xa của VNPT, đáp ứng theo tiêu chuẩn an toàn bảo mật eIDAS của Châu Âu và các tiêu chuẩn của Bộ Thông tin và Truyền thông. VNPT SmartCA sẵn sàng tích hợp với các phần mềm, ứng dụng giúp khách hàng thực hiện các giao dịch ký số một cách an toàn, thuận tiện.
+- Các chức năng của VNPT SmartCA:
+	+ Ký số từ xa thông qua thiết bị di động (SmartPhone, Tablet).
+	+ Quản lý thông tin chứng thư số.
+	+Quản lý tài liệu, văn bản đã thực hiện ký số.
+	+ Tích hợp với các ứng dụng, phần mềm sử dụng ứng dụng ký số để chứng thực văn bản, giao dịch điện tử.
+2. GIÁ CƯỚC CỦA DỊCH VỤ:
+
+STT	
+Tên gói	
+Cấu hình gói dịch vụ	Thời gian sử dụng (tháng)	Giá cước dịch vụ
+I	Gói dịch vụ VNPT SmartCA theo thời gian sử dụng		
+
+
+1	
+
+SmartCA Cá nhân cơ bản	
+
+-	Tốc độ ký: 01 lượt ký/giây
+-	Lượt ký tối đa trong 24h: 500 lượt ký	01	35,000
+			03	65,000
+			06	120,000
+			12	220,000
+			24	385,000
+			36	550,000
+
+
+2	
+
+SmartCA Nhân viên cơ bản	
+
+-	Tốc độ ký: 01 lượt ký/giây
+-	Lượt ký tối đa trong 24h: 500 lượt ký	01	50,000
+			03	95,000
+			06	180,000
+			12	330,000
+			24	605,000
+			36	770,000
+
+3	SmartCA Doanh nghiệp cơ bản	-	Tốc độ ký: 01 lượt ký/giây
+-	Lượt ký tối đa trong 24h: 500 lượt ký	12	1,273,000
+			24	2,190,000
+			36	2,912,000
+II	Gói dịch vụ VNPT SmartCA dùng 01 lần		
+
+1	SmartCA dùng 01 lần	-	Thời gian sử dụng tối đa: 30 ngày
+-	Số lượt ký tối đa: 10 lượt ký
+-	Tốc độ ký: 01 lượt/giây	
+01	
+20,000
+3. TƯ LIỆU TRUYỀN THÔNG:
+ 
+ 
+DỊCH VỤ MYTV MOBILE (APP)
+1. GÓI MYTV CHÍNH:
+
+Tên gói	Giá gói	Chu kỳ	Nội dung trong gói
+Gói Cơ bản
+MYTVB0
+(chỉ áp dụng đăng ký trên ứng dụng DigiLife)	
+0	
+30 ngày	-	Truyền hình: 124 kênh (54 HD + 70 SD) (không bao gồm chùm kênh VTVCab và QNET)
+-	VOD: Miễn phí kho VOD; có quảng cáo
+-	Đăng nhập tối đa trên 5 thiết bị; CCU 2 thiết bị (Không phân biệt SmartPhone/SmartTV)
+-	Miễn phí lưu lượng Data khi sử dụng dịch vụ MyTV.
+MYTVB	20.000	30 ngày	
+MYTVB7	120.000	210 ngày	
+MYTVB15	240.000	450 ngày	
+MYTVB24	480.000	720 ngày	
+Gói Chuẩn
+MYTVC	40.000	30 ngày	-	Truyền hình: 144 kênh (60 KD + 84 SD) (có bao gồm chùm kênh VTVCab)
+-	VOD: Miễn phí kho VOD; có quảng cáo
+-	Đăng nhập tối đa trên 5 thiết bị; CCU 2 thiết bị (Không phân biệt SmartPhone/SmartTV)
+-	Miễn phí lưu lượng Data khi sử dụng dịch vụ MyTV.
+MYTVC7	240.000	210 ngày	
+MYTVC15	480.000	450 ngày	
+Gói Nâng Cao
+
+
+
+MYTV15	
+
+
+659.000	
+
+
+450 ngày	-	Truyền hình: 172 kênh (83 HD + 89 SD) (có bao gồm chùm kênh VTVCab và một số kênh của chùm kênh QNET).
+-	VOD: Miễn phí kho VOD; không quảng cáo
+-	Đăng nhập tối đa trên 5 thiết bị; CCU 2 thiết bị (Không phân biệt SmartPhone/SmartTV)
+-	Miễn phí lưu lượng Data khi sử dụng dịch vụ MyTV.
+
+2. GÓI CƯỚC ADD-ON:
+Tên gói	Giá gói	Chu kỳ	Chính sách	Đối tượng
+VoD tắt quảng cáo	20.000	30 ngày 	Tắt quảng cáo trên các nội dung VOD	Thuê bao đang sử dụng gói chuẩn
+HBO Go	50.000	30 ngày	VOD+ kênh thuộc gói HBO Go	Toàn bộ thuê bao MyTV Fix
+VTVcab	25.000	30 ngày	Chùm kênh VTV cab (12 kênh)	Thuê bao đang sử dụng gói Cơ bản
+VoD tắt quảng cáo	
+20.000	
+30 ngày	Tắt quảng cáo trên các nội dung VoD với các gói chính phải xem VoD kèm quảng cáo	Thuê bao đang sử dụng gói Cơ bản và Gói Chuẩn
+
+
+HBO Go	50.000	30 ngày	
+VOD + kênh thuộc gói HBO Go	Thuê bao đang sử dụng các gói phát sinh cước
+	79.000	30 ngày		Thuê bao đang sử dụng gói MYTVB0
+
+3. GÓI CƯỚC MYTV FIX ĐƠN LẺ:
+
+Gói cước	Giá gói (đã VAT)	
+Nội dung trong gói
+	1 tháng	7 tháng	15 tháng	
+
+
+Chuẩn	
+
+40.000	
+
+240.000	
+
+480.000	-	151 kênh truyền hình (67 HD + 84 SD); có VTVCab và một số kênh Qnet
+-	VOD: Quyền lợi sử dụng kho VOD; có quảng cáo
+
+
+
+Nâng Cao	
+
+55.000	
+
+330.000
+
+	
+
+659.000	-	177 kênh truyền hình (88 HD + 89 SD); có VTVCab và chùm kênh Qnet
+-	VOD: Quyền lợi sử dụng kho VOD; không quảng cáo
+
+
+
+
+
+
+3. TẢI ỨNG DỤNG:
+ 
+
+
+
+
+
+
+4. TƯ LIỆU TRUYỀN THÔNG GÓI CƯỚC:
+ 
+ 
+ 
+ 
+
+
+
+
+DỊCH VỤ CA VÀ BHXH
+
+
+STT	Thời gian sử dụng	
+Gói cước	Giá list gói tích hợp CA +
+BHXH	Giá trị cấu phần CA trong gói tích hợp
+(làm tròn số)	Giá trị cấu phần BHXH trong gói tích hợp (làm tròn
+số)
+
+
+1	
+
+18
+tháng	VNPT-VAN 10+VNPT-CA	1,320,000	1,183,000	137,000
+		VNPT-VAN 100+VNPT-CA	1,584,000	1,229,000	355,000
+		VNPT-VAN 1000+VNPT-CA	1,897,500	1,298,000	599,500
+		VNPT-VAN Max+VNPT-CA	2,200,000	1,346,000	854,000
+
+
+2	
+
+33
+tháng	VNPT-VAN 10+VNPT-CA	2,156,000	1,930,000	226,000
+		VNPT-VAN 100+VNPT-CA	2,695,000	2,085,000	610,000
+		VNPT-VAN 1000+VNPT-CA	3,157,000	2,151,000	1,006,000
+		VNPT-VAN Max+VNPT-CA	3,658,600	2,226,000	1,432,600
+
+
+3	
+
+48
+tháng	VNPT-VAN 10+VNPT-CA	2,530,000	2,298,000	232,000
+		VNPT-VAN 100+VNPT-CA	3,020,600	2,412,000	608,600
+		VNPT-VAN 1000+VNPT-CA	3,608,000	2,571,000	1,037,000
+		VNPT-VAN Max+VNPT-CA	4,202,000	2,703,000	1,499,000
+
+	DỊCH VỤ HOÁ ĐƠN ĐIỆN TỬ (VNPT INVOICE)
+-	Khách hàng tổ chức, doanh nghiệp lần đầu đăng ký sử dụng dịch vụ VNPT Invoice.
+-	Gói cước bao gồm hoá đơn điện tử và truyền nhận dữ liệu hoá đơn tới cơ quan thuế;
+-	Thời gian lưu trữ: trong vòng 10 năm tính từ ngày phát hành hoá đơn.
+STT	Tên gói cước	Giá gói	Nội dung gói cước ưu đãi
+
+1	
+Invoice_UD 50	
+0 đồng	-	Số lượng: 50 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+2	
+Invoice_UD 100	
+0 đồng	-	Số lượng: 100 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+3	
+Invoice_UD 200	
+0 đồng	-	Số lượng: 200 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+4	
+Invoice_UD 300	
+0 đồng	-	Số lượng: 300 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+5	
+Invoice_UD 500	
+0 đồng	-	Số lượng: 500 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+6	
+Invoice_UD 1000	
+0 đồng	-	Số lượng: 1.000 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+7	
+Invoice_UD 2000	
+0 đồng	-	Số lượng: 2.000 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+8	
+Invoice_UD 3000	
+0 đồng	-	Số lượng: 3.000 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+9	
+Invoice_UD 5000	
+0 đồng	-	Số lượng: 5.000 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+10	Invoice_UD 10000	0 đồng	- Số lượng: 10.000 hóa đơn
+
+DỊCH VỤ HOÁ ĐƠN ĐIỆN TỬ KHỞI TẠO TỪ MÁY TÍNH TIỀN  (VNPT INVOICE-POS)
+
+-	Khách hàng tổ chức, doanh nghiệp lần đầu đăng ký sử dụng dịch vụ VNPT Invoice-POS.
+-	Gói cước bao gồm hoá đơn điện tử khởi tạo từ máy tính tiền và truyền nhận dữ liệu hoá đơn tới cơ quan thuế;
+-	Thời gian lưu trữ: trong vòng 10 năm tính từ ngày phát hành hoá đơn.
+STT	Tên gói cước	Giá gói	Nội dung gói cước ưu đãi
+
+1	
+Invoice-POS_UD 50	
+0 đồng	-	Số lượng: 50 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+2	
+Invoice-POS_UD 100	
+0 đồng	-	Số lượng: 100 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+3	
+Invoice-POS_UD 200	
+0 đồng	-	Số lượng: 200 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+4	
+Invoice-POS_UD 300	
+0 đồng	-	Số lượng: 300 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+5	
+Invoice-POS_UD 500	
+0 đồng	-	Số lượng: 500 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+6	
+Invoice-POS_UD 1000	
+0 đồng	-	Số lượng: 1.000 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+7	
+Invoice-POS_UD 2000	
+0 đồng	-	Số lượng: 2.000 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+8	
+Invoice-POS_UD 3000	
+0 đồng	-	Số lượng: 3.000 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+9	
+Invoice-POS_UD 5000	
+0 đồng	-	Số lượng: 5.000 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+10	
+Invoice-POS_UD 10000	
+0 đồng	-	Số lượng: 10.000 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+11	
+Invoice-POS_UD 15000	
+0 đồng	-	Số lượng: 15.000 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+12	
+Invoice-POS_UD 20000	
+0 đồng	-	Số lượng: 20.000 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+DỊCH VỤ BIÊN LAI ĐIỆN TỬ  (VNPT ERECEIPT)
+
+-	Khách hàng tổ chức, doanh nghiệp lần đầu đăng ký sử dụng dịch vụ VNPT eReceipt.
+-	Thời gian lưu trữ: trong vòng 10 năm tính từ ngày phát hành biên lai.
+
+
+STT	Tên gói cước	Giá gói	Nội dung gói cước ưu đãi
+
+1	
+eReceipt_UD 50	
+0 đồng	-	Số lượng: 50 biên lai
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+2	
+eReceipt_UD 100	
+0 đồng	-	Số lượng: 100 biên lai
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+3	
+eReceipt_UD 200	
+0 đồng	-	Số lượng: 200 biên lai
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+4	
+eReceipt_UD 300	
+0 đồng	-	Số lượng: 300 biên lai
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+5	
+eReceipt_UD 500	
+0 đồng	-	Số lượng: 500 biên lai
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+6	
+eReceipt_UD 1000	
+0 đồng	-	Số lượng: 1.000 biên lai
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+DỊCH VỤ QUẢN LÝ HOÁ ĐƠN ĐIỆN TỬ ĐẦU VÀO  (VNPT INVOICE-INBOT)
+
+-	Khách hàng tổ chức, doanh nghiệp lần đầu đăng ký sử dụng dịch vụ VNPT Invoice-inbot..
+-	Thời gian lưu trữ: trong vòng 10 năm tính từ ngày phát hành biên lai.
+STT	Tên gói cước	Giá gói	Nội dung gói cước ưu đãi
+
+1	
+Inbot_UD 50	
+0 đồng	-	Số lượng: 50 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+2	
+Inbot_UD 100	
+0 đồng	-	Số lượng: 100 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+3	
+Inbot_UD 200	
+0 đồng	-	Số lượng: 200 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+4	
+Inbot_UD 300	
+0 đồng	-	Số lượng: 300 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+5	
+Inbot_UD 500	
+0 đồng	-	Số lượng: 500 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+6	
+Inbot_UD 1000	
+0 đồng	-	Số lượng: 1.000 hóa đơn
+-	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
+
+
