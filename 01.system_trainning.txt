@@ -1162,3 +1162,282 @@ Inbot_UD 1000
 -	Thời gian sử dụng: từ ngày đăng ký sử dụng đến hết ngày 31/12/2024
 
 
+
+
+======================
+
+
+
+GHI CHÚ LỖI IGATE
+
+
+1. Lỗi không nộp được hồ sơ online	3
+2. Kích hoạt tài khoản công dân và reset mật khẩu tài khoản công dân	4
+3. Thao tác tài khoản cán bộ	5
+a. Tìm kiếm cán bộ	5
+b. Reset mật khẩu tài khoản cán bộ	7
+c. Phân quyền tài khoản cán bộ	7
+d. Điều chuyển và Thêm kiêm nhiệm tài khoản cán bộ	8
+đ. Đóng tài khoản cán bộ, nghỉ việc, nghỉ hưu	9
+e. Thêm mới tài khoản cán bộ	9
+g. Cán bộ đã nghỉ và quay lại làm việc	12
+4. Thao tác với thủ tục	13
+a. Tìm kiếm thủ tục	13
+b. Thông tin hiển thị của thủ tục	14
+c. Lệ phí thủ tục	16
+d. Tạo thủ tục mới	17
+e. Lỗi chọn lãnh đạo ký duyệt	22
+5. Thao tác với hồ sơ	23
+a. Tìm kiếm hồ sơ	23
+b. Cập nhật thời gian hồ sơ	25
+c. Trả ngược lại hồ sơ	26
+d. Trả hồ sơ không giải quyết	27
+đ. Yêu cầu bổ sung giấy tờ ( tạm dừng - trạng thái 5)	28
+6. Các báo cáo trên site dichvucong	28
+7. Các tham số hệ thống	28
+a. Một số tham số giao diện LCU tự tạo	29
+b. Tham số kho luồng cũ mới	30
+c. Lỗi hồ sơ xử lý ngoài giờ là bị tính trễ hạn	30
+d. Lỗi đăng ký tài khoản bị trắng màn khi có nhập mail	31
+8. Qui trình thủ tục	31
+a. Cách vào phần qui trình thủ tục	31
+b. Tạo qui trình thủ tục	32
+c. Qui trình thủ tục tính ngày nghỉ, thứ 7, chủ nhật	34
+d. Cấu hình nút chuyển nhảy bước, được chọn bước kế tiếp	34
+9. Bot telegram	36
+10. Map thành phần hồ sơ igate	37
+a. Cách map kiểu cũ	37
+b. Cách map kiểu mới	37
+ 
+1. Lỗi không nộp được hồ sơ online
+ 
+Xử lý
+Lấy mã 5 số của thủ tục
+ 
+Vào link map dữ liệu : https://dichvucong.laichau.gov.vn/mapdulieu/dulieu/dsp_all_dulieu
+ 
+Tra cứu nếu không có dòng đã map của thủ tục này thì thực hiện map thủ tục này
+ 
+Nhập đúng các trường thông tin, đặc biệt 4 trường bôi đỏ trong hình, sau đó ấn thêm
+ 
+Báo thêm mới thành công -> Thử nộp lại hồ sơ
+2. Kích hoạt tài khoản công dân và reset mật khẩu tài khoản công dân
+ Truy cập danh sách tài khoản công dân từ tk admin
+Hoặc link : https://dichvucong.laichau.gov.vn/tracuu/taikhoancongdan
+ 
+Tìm theo CCCD hoặc tên
+ Thao tác -> Kích hoạt tài khoản hoặc Reset mật khẩu
+3. Thao tác tài khoản cán bộ
+a. Tìm kiếm cán bộ
+ 
+ 
+Vào danh sách cán bộ hoặc link : https://dichvucong.laichau.gov.vn/tracuu/timkiemcanbo
+ 
+Tìm kiếm cán bộ bằng tên hoặc tên đăng nhập
+ 
+Sử dụng nút chức năng tương ứng
+b. Reset mật khẩu tài khoản cán bộ
+  
+c. Phân quyền tài khoản cán bộ
+  
+Tích vào quyền cán bộ được sử dụng và ấn cập nhật
+d. Điều chuyển và Thêm kiêm nhiệm tài khoản cán bộ
+  
+ 
+Điều chuyển : Tài khoản cán bộ được chuyển từ đơn vị cũ sang đơn vị mới
+Thêm kiêm nhiệm : Tài khoản cán bộ vẫn giữ nguyên ở đơn vị cũ và được sinh thêm 1 dòng tài khoản cán bộ nữa ở đơn vị mới
+đ. Đóng tài khoản cán bộ, nghỉ việc, nghỉ hưu
+  
+Sau khi vào Quá trình công tác, Thao tác Cập nhật tại dòng mà cán bộ cần đóng
+ 
+Nhập Đến ngày là ngày cũ hơn ngày hiện tại, sau đó ấn Cập nhật
+e. Thêm mới tài khoản cán bộ
+ 
+ Sử dụng nút chức năng hoặc đường link :  https://dichvucong.laichau.gov.vn/canbo/canbo
+ 
+Nhấn nút Thêm cán bộ
+ 
+Nhập đủ thông tin và nhấn Cập nhật (Lưu ý nếu muốn sử dụng chức năng lưu kho thì ngoài các trường có dấu *, phải điền thêm số CMND,ngày sinh)
+ 
+Vào Cán bộ mới thêm xem danh sách cán bộ mới thêm ( là những tài khoản cán bộ chưa từng được phân vào phòng ban nào)
+ 
+ 
+ 
+Nhập thông tin như hình sau đó ấn Cập nhật
+g. Cán bộ đã nghỉ và quay lại làm việc
+ Sử dụng nút chức năng hoặc link :   https://dichvucong.laichau.gov.vn/tracuu/canbodanghi
+ 
+  
+admin có thể thêm lại nơi công tác để tài khoản hoạt động trở lại
+4. Thao tác với thủ tục
+a. Tìm kiếm thủ tục
+ 
+ Sử dụng nút hoặc vào link
+https://dichvucong.laichau.gov.vn/thutuc/thutuc
+ 
+Tìm kiếm theo mã hoặc tên thủ tục
+b. Thông tin hiển thị của thủ tục
+  
+ 
+Nhập các trường thông tin sau đó ấn Cập nhật
+Thông tin này được hiển thị tại chức năng Bộ thủ tục mà công dân có thể tra cứu
+ 
+ 
+c. Lệ phí thủ tục
+  
+Thêm : thêm mốc phí, lệ phí
+Sửa : sửa mốc phí, lệ phí
+  
+Nhập thông tin và bấm đồng ý
+d. Tạo thủ tục mới
+Bước 1: vào trang quản lý thủ tục bằng tài khoản admin sau đó click nút thêm thủ tục
+ 
+Bước 2: Thêm tất cả các trường thông tin có đánh dấu (*) -> Chú ý (tên tắt) và (mức độ thủ tục) phải được cấp và thứ tự hiển thị phải bé hơn 100
+-	  Ngoài ra vào trang cơ sở dữ liệu để kiểm tra tên tắt lấy lĩnh vực thủ tục giống theo CSDL
+ 
+ 
+
+
+Bước 3: vào đường link https://dichvucong.laichau.gov.vn/hethong/dongbothutucv2/theoMaThuTuc
+-	Nhập Mã TT Quốc Gia và TT iGate mà ta vừa tạo mới thủ tục vào sau đó ấn Đồng bộ để cập nhật thành công
+-	Sau đó quay lại Bước 1 vào thủ tục sửa lại các trường như thời hạn giải quyết, Lệ phí, Phí
+ 
+
+Bước 4: Copy một dòng kết quả thực hiện 
+ 
+Bước 5: chọn (Cấu hình giấu tờ trả kết quả kho) trong đó lấy thông tin copy ở bước 4 pages và ô trống
+ 
+Bước 6: Sau khi pages xong ấn enter để dữ liệu được tìm kiếm xong ấn vào khoảng trắng rồi nhấn vào nút đồng bộ 
+ 
+
+Bước 7: Sau đó truy cập vào link https://dichvucong.laichau.gov.vn/mapdulieu/dulieu/dsp_all_dulieu nhập đầy đủ dữ liệu rồi ấn nút Thêm
+Bước 8: sau khi thêm thành công ở bước 7 ta truy cập vào link https://dichvucong.laichau.gov.vn/hethong/dongbothutucv2/dongbo_giayto_tt
+·        Bước đầu ta tìm kiếm mã thủ tục để tìm ra thủ tục cần đồng bộ
+·        Tích V vào thử tục mà chúng ta cần đồng bộ
+·        Kiểm tra cơ quan đã đúng chưa
+·        Bước cuối cùng ấn nút Đồng bộ giấy tờ theo thủ tục ( Lưu ý chỉ thủ tục vừa mới tạo hoặc giấy tờ trong thủ tục đang trống thì mới được phép sử dụng nút này)
+ 
+e. Lỗi chọn lãnh đạo ký duyệt
+ 
+Trường hợp báo lỗi như trên thì vào quy trình của mã thủ tục đó rồi kiểm tra xem các bước
+ 
+Nếu ở mục Lãnh đạo ký duyệt hiển thì là lãnh đạo ký thì đổi thành không và cập nhật
+5. Thao tác với hồ sơ
+a. Tìm kiếm hồ sơ
+ 
+Sử dụng nút chức năng Tra cứu HS - Toàn cơ quan hoặc link :  
+https://dichvucong.laichau.gov.vn/tra-cuu/ho-so
+ 
+Nhập thông tin tra cứu và nhấn tra cứu
+ 
+Sau khi tra cứu có danh sách menu nhắc việc hiển thị số hồ sơ ở từng menu, cần nhấn vào menu tương ứng để xem hồ sơ . Ví dụ : Nhấn vào Hồ sơ online từ chối sẽ xem được 10 hồ sơ đang ở bước này, hoặc nhấn vào đã trả lại dân sẽ xem được 3 hồ sơ đang ở bước này
+ 
+Ngoài ra có thể dùng nút tìm kiếm nâng cao để lọc các trường thông tin theo ý muốn
+
+b. Cập nhật thời gian hồ sơ
+Lưu ý cập nhật thời gian hồ sơ nên hỏi xin ý kiến phòng KSTTHC
+ 
+Để cập nhật thời gian trễ hạn hồ sơ ta click vào nút (Xem quy trình)
+ 
+Tìm bước mà có thông báo màu đỏ trễ hạn thì ta chọn vào ô chức năng màu xanh
+Có thể cập nhật bằng tay chọn (Cập nhật ngày bắt đầu)
+Cập nhật tự động thì chọn (Cập nhật đúng hạn)
+Lưu ý không khuyến khích sử dụng nút cập nhật đúng hạn
+
+
+
+
+Sau khi cập nhật thời gian xong ta vào link https://dichvucong.laichau.gov.vn/dvcqg/kiemtra
+ 
+Chọn mục Đồng bộ hồ sơ, sau đó add số hồ sơ vừa mới cập nhật thời gian rồi ấn đồng bộ cuối cùng tra cứu tiến trình xem đã đồng bộ chưa.
+* Ngoài ra để đảm bảo hồ sơ được đồng bộ lên QG thì ta có thể vào đường link https://dichvucong.gov.vn/p/home/dvc-tra-cuu-ho-so.html để tra cứu mã hồ sơ vừa cập nhật thời gian
+ 
+c. Trả ngược lại hồ sơ
+ 
+Khi tra cứu hồ sơ cần trả ngược lại, ấn vào nút trả ngược lại và tích vào bước muốn trả ngược lại theo yêu cầu.
+ 
+Sau  khi tích vào bước mong muốn chuyển ngược lại kéo xuống dưới nhấn nút (đồng ý) 
+d. Trả hồ sơ không giải quyết
+Khi cán bộ yêu cầu muốn trả hồ sơ không giải quyết cho dân chúng ta tìm kiếm hồ sơ đó rồi chọn nút (Trả kết quả không giải quyết cho dân) 
+ 
+đ. Yêu cầu bổ sung giấy tờ ( tạm dừng - trạng thái 5)
+ 
+Để yêu cầu bổ sung giấy tờ thì ta tìm kiếm giấy tờ đó rồi chọn nút (Yêu cầu bổ sung giấy tờ) và hồ sơ đó sẽ dừng thời gian giải quyết và trả về cho công dân.
+6. Các báo cáo trên site dichvucong
+7. Các tham số hệ thống
+ Sử dụng nút chức năng hoặc link :  https://dichvucong.laichau.gov.vn/danhmuc/thamsohethong
+ 
+admin có thể tìm kiếm tham số, thêm mới tham số hoặc sửa tham số
+mỗi tham số có tác dụng riêng, giá trị của tham số phụ thuộc vào code, có thể ghi chú ở cột Ghi chú để dễ nhớ
+nếu quên tham số cần hỏi IT để được cung cấp lại
+a. Một số tham số giao diện LCU tự tạo
+LCU_HOME_NUT_1 : Giá trị là đường link khi nhấn vào nút đầu tiên trên trang chủ (ở thời điểm viết là nút Chứng thực điện tử)
+ 
+ 
+LCU_GIAO_DIEN_DVCQG : Giá trị 1 là bật, 0 là tắt giao diện mới của site Lai Châu
+  
+Ảnh trái là giao diện mới, ảnh phải là giao diện cũ
+
+LCU_DUONG_DAN_BANNER : Giá trị là đoạn code <img src="https://dichvucong.laichau.gov.vn/public_dir/tttl/12/2023/06/Banner_Cong_DVC_1687919108.jpg" alt="Logo trang chủ" width = 850px height = 100%> 
+được chèn vào file home (để hiểu rõ cần đọc source code) trong đó bao gồm đường dẫn ảnh banner trên trang chủ giao diện mới
+b. Tham số kho luồng cũ mới
+ 
+KHO_UPDATE_METHOD_LAY_GIAY_TO_KHO : 0 là cũ, 1 là mới
+KHO_URL_LAY_GIAY_TO_KHO : kho luồng cũ thì để giá trị trống, kho luồng mới thì thêm link trong ghi chú ( https://quantrikholaichau.vnptigate.vn/vi/helper/get-form-origin )
+saveInStorage : 0 là cũ, 1 là mới
+c. Lỗi hồ sơ xử lý ngoài giờ là bị tính trễ hạn
+TINH_HXL_THEO_GIAY : 1 bật, 0 tắt
+ 
+Bật lên để không bị lỗi khi cán bộ xử lý ngoài giờ là bị tính trễ hạn, do khi tắt tham số này, hồ sơ mà xử lý ngoài giờ phần thời gian sẽ không đếm giây, dẫn tới sai lệch 
+Ví dụ  10:22:35 là 10 giờ 22 phút 35 giây, thiếu giây là 10:22 hệ thống nhận là 10 phút 22 giây nên sai thời gian
+d. Lỗi đăng ký tài khoản bị trắng màn khi có nhập mail
+dvc_send_registration_code_to_mail : 1 bật, 0 tắt việc gửi otp đăng kí qua mail
+do hệ thống mail không còn sử dụng, nếu bật gửi mail sẽ lỗi gửi mail dẫn tới trắng trang, tắt gửi mail hệ thống sẽ không gửi mail khi đăng kí tài khoản nữa
+tương tự có thể tắt check mail một số chức năng khác
+AUTO_CHECK_SEND_EMAIL
+AUTO_CHECK_SEND_EMAIL_SMS_NHIEU_HS
+CB_AUTO_CHECK_SEND_EMAIL
+8. Qui trình thủ tục
+a. Cách vào phần qui trình thủ tục
+ 
+Sử dụng nút chức năng hoặc vào link https://dichvucong.laichau.gov.vn/thutuc/thutuc
+ 
+Sau khi chọn nút Quy trình màn hình sẽ chuyển sang danh sách Quy trình
+ 
+có thể ấn vào dòng qui trình để xem chi tiết các bước trong qui trình
+
+b. Tạo qui trình thủ tục
+Vào danh sách quy trình như mục a. Cách vào phần qui trình thủ tục
+ 
+ở mục này có 2 cách tạo quy trình thủ tục mới
+-	Cách 1: Nếu ta có Mã QT sẵn thì ta chỉ cần ấn vào nút (Copy QTTT) sau đó ấn đồng ý
+ 
+
+-	Cách 2: Click vào nút (Thêm QTTT) nhập đủ thông tin chi tiếp phần có đánh dấu (*) đỏ
+sau đó click (Cập nhật) để hoàn tất quy trình thủ tục được thêm vào
+c. Qui trình thủ tục tính ngày nghỉ, thứ 7, chủ nhật
+ 
+vào quy trình thủ tục ta click vào mũi tên chọn chức năng sửa của quy trình thủ tục đó
+ 
+kéo xuống và tìm đến mục cấu hình (Giờ tiếp nhận bỏ) và cấu hình theo yêu cầu
+d. Cấu hình nút chuyển nhảy bước, được chọn bước kế tiếp
+Để cấu hình nút chuyển bước trước tiên ta tìm kiếm mã thủ tục của hồ sơ cần cấu hình
+Vào giao diện danh sách qui trình như mục a. Cách vào phần qui trình thủ tục
+Khi vào được giao diện của quy trình chúng ta tìm tới bước cần cấu hình nút chuyển nhảy bước  sau đó nhấn nút (Sửa) đề vào cấu hình
+Sau khi ấn nút (Sửa) sẽ vào giao diện cấu hình chúng ta sẽ tìm tới Item (Được chọn bước kế tiếp) tích vào ô Item đó rồi nhấn cập nhật như vậy ở bước đó cán bộ có thể chuyển sang các bước mong muốn
+  * Lưu ý:
+-	Khi cán bộ cấp cao yêu cầu mới được thực hiện phép thêm cấu hình thêm bước chuyển tiếp
+-	Lưu ý là chuyển đến tối đa là 2 bước trước bước cuối (Có nghĩa ví dụ quy trình đó có 11 bước thì bước 10 và 11 được gọi là bước sát cuối và cuối tuyệt đối ko được chuyển tới)
+
+9. Bot telegram
+/igate laichau xoacache : Câu lệnh xoá cache site dichvucong laichau trên máy chủ
+/igate laichau-debug-on on : Câu lệnh bật debug để check câu lệnh lỗi khi trang web bị lỗi
+/igate laichau-debug-off off : Tắt debug sau khi check lỗi xong, tránh cán bộ sử dụng nhìn thấy các dòng code hiển thị ra và cán bộ bảo là trang web bị sập, bị hỏng
+10. Map thành phần hồ sơ igate
+ a. Cách map kiểu cũ
+
+b. Cách map kiểu mới
+
+
+
+
