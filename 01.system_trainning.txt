@@ -1440,4 +1440,134 @@ b. Cách map kiểu mới
 
 
 
+=====================================
+
+
+			
+HƯỚNG DẪN XỬ LÝ CÁC TÌNH HUỐNG/LỖI CƠ BẢN HỆ THỐNG VNPT HIS			
+STT	Nội dung tình huống/lỗi cần xử lý	Phương án xử lý	Thao tác thực hiện
+1	Đẩy Sẵn sàng thanh toán lên cổng GĐ BHYT -> 'Cảnh báo lỗi : Ngày ra không được lớn hơn thời gian hiện tại'	"- Phương án 1: Cập nhật ngày xuất viện trước giờ trước mũi giờ tại thời điểm đó
+- Phương án 2: Để cuối giờ khi thời gian lớn hơn thời gian xuất viện của BN -> Thì đẩy lại Hồ sơ"	
+2	Lỗi đẩy bệnh nhân lên cổng GĐBH -> Cảnh báo lỗi thông tin thầu, lỗi tên theo danh mục được duyệt	Rút file XML của bệnh nhân báo lỗi, tìm kiếm, kiểm tra mã lỗi trên XML -> So sánh với danh mục được duyệt của đơn vị để báo Khoa Dược hoặc phòng KH sửa trên danh mục.	
+3	Sửa lỗi tiếp nhận bệnh nhân tại 1 cơ sở y tế. Lỗi tiếp nhận báo cảnh báo "Có lỗi trong quá trình tiếp nhận hoặc BN còn đang nội trú tại CSYT..."	"- Nguyên nhân: Do bệnh nhân đó đang còn đang tiếp nhận nội trú hoặc BANT tại 1 cơ sở y tế khác mà chưa cho xuất viện. Phần mềm sẽ khóa chức năng tiếp nhận tại 1 CSYT khác.
+- Xử lý: Tra cứu lịch sử khám của bệnh nhân và báo trạm y tế đang có BN Nội trú đó cho xuất viện hoặc kiểm tra BN tiếp nhận là ĐÚNG hay SAI."	
+4	Sửa lỗi tiếp nhận bệnh nhân tại 1 cơ sở y tế 		
+5	Sửa lỗi Lệch danh mục dược (Chiếm tồn kho - lệch số lượng, đơn giá, thành tiền, thuốc âm - với báo cáo Xuất nhập tồn )	"B1: Đăng nhập bằng tài khoản admin
+- Thiết lập đơn vị (Báo lỗi)
+B2:Truy cập link: https://yte-laichau.vnpthis.vn/web_his//dong-bo-danh-muc-duoc#
+- Chọn mã dược-vật tư bị lệch 
+B3:Nhấn 'Đồng bộ' 
+-> Kiểm tra lại Chiếm tồn kho dược"	
+6	Lỗi đẩy bệnh nhân lên cổng GĐBH -> Cảnh báo lỗi ngày Y Lệnh không được lớn hơn ngày giờ xuất viện	Tìm kiếm Bn cảnh báo lỗi -> Xuất XML -> Kiểm tra các trường Y Lệnh (Ngày giường, CSL, CĐHA, XN ) ngày giờ có lớn hơn ngày giờ xuất viện -> Chỉnh sửa giờ đang lỗi về trước ngày xuất viện -> In lại bảng kê-> Đẩy thay thế lên Cổng GĐ BHYT  	
+7	Xử lý Hủy xuất viện, hủy chuyển tuyến bệnh nhân Điều trị Nội trú	"B1: Đăng nhập vào hệ thống bằng tài khoản 'admin.his.lcu'
+B2: Vào Module NỘI TRÚ -> Kiểm tra Bảng kê Nội trú 
+     Có link: https://yte-laichau.vnpthis.vn/web_his/kiemtrabangkenoitru
+B3: Tại bảng kê Nội trú: Tìm kiếm BN
++ Từ ngày > Đến ngày: Chọn theo ngày ra viện của BN 
++ Khoa: Chọn theo Khoa BN điều trị Nội trú 
+B4: Click Chuột phải vào BN đã tìm được 
++ Nhấn ' Hủy xuất viện'
++ Nhấn 'Hủy chuyển tuyến'
+-> BN sẽ được trở lại trạng thái Đang điều trị Nội trú tại Khoa"	
+8	Xử lý lỗi đẩy cổng GD - BHYT :Trường mã 'MA_BAC_SI' không được để trống	"Trường hợp lỗi thường gặp: Do đơn vị kê thuốc hoặc chỉ định các Cận Lâm Sàng bằng 1 tài khoản Y Bác sĩ không có Chứng chỉ hành nghề được cấp phép của Sở Y tế 
+-> Đẩy lên cổng gđ BHYT sẽ cảnh báo lỗi luôn tại Kết quả gửi hồ sơ XML
+trên cổng GĐ tại link: https://gdbhyt.baohiemxahoi.gov.vn/DanhSachKetQuaGuiHoSo/index?type=3"	"B1: Đơn vị báo trực tiếp HS không đẩy lên được Cổng GĐ
+- Xác đinh hồ bệnh án tiếp nhận khám chữa bệnh theo loại hình KCB nào:
+-Tìm kiếm hồ sơ :ừng
+- Tìm kiếm theo ngày thanh toán đẩy cổng GĐ định BHYT
++ Bệnh nhân kê đơn Ngoại trú : Truy cập VIÊN PHÍ -> Tìm kiếm tại Kiểm tra bảng kê chi phí: https://yte-laichau.vnpthis.vn/web_his/kiemtrabangke
++Bệnh nhận Bệnh án Ngoại trú : Truy cập VIÊN PHÍ -> Tìm kiếm tại  Kiểm tra bảng kê BANT: https://yte-laichau.vnpthis.vn/web_his/kiemtrabangkebannt
++ Bệnh nhân điều trị Nội trú: Truy cập NỘI TRÚ -> Kiểm tra bảng kê Nội trú: https://yte-laichau.vnpthis.vn/web_his/kiemtrabangkenoitru
+B2: Tìm kiếm Hồ sơ BA theo Tên hoặc theo mã thẻ BHYT
+- Sau khi tìm được Hồ sơ BA
+- Chọn BN -> Click chuột phải -> Xuất file XML 917 - 4210
+-> Chọn ' Loại XML 4210 (đầy đủ) chưa mã hóa'
+B3: Mở file XML của HS vừa được rút ra 
+- Tìm theo trường XML :'<MA_BAC_SI>' 
++ Cấu trúc đúng của trường mã bác sĩ là: <MA_BAC_SI> CCHN của Y Bác sĩ </MA_BAC_SI>
++ Khi đó tại trường tìm theo trường Mã bác sĩ lỗi khi :
+<MA_BAC_SI> (TRỐNG DỮ LIỆU)</MA_BAC_SI>
+- Tương ứng tại thuốc vật tự nào thì lỗi kê sai Mã sĩ khám tại danh mục này 
+B4: 
+- Bệnh nhân kê đơn Ngoại trú:
++ VIÊN PHÍ -> Tìm kiếm tại Kiểm tra bảng kê chi phí: https://yte-laichau.vnpthis.vn/web_his/kiemtrabangke
++ Mở khóa cho phép chỉnh sửa BN -> Báo đơn vị xóa thuốc - vật tư kê sai bác sĩ xóa thuốc đi -> Kê lại trên tài khoản BS đúng
+- Bệnh nhân điều trị BANT:
++ VIÊN PHÍ -> Tìm kiếm tại Kiểm tra bảng kê BANT: https://yte-laichau.vnpthis.vn/web_his/kiemtrabangkebannt
++ Hủy xuất viện -> BN về trạng thái đang điều trị ->Báo đơn vị xóa thuốc - vật tư kê sai bác sĩ xóa thuốc đi -> Kê lại trên tài khoản BS đúng
+- Bệnh nhân điều trị Nội trú:
++ NỘI TRÚ-> Tìm kiếm tại Kiểm tra bảng kê nội trú: https:https://yte-laichau.vnpthis.vn/web_his/kiemtrabangkenoitru
++ Hủy xuất viện -> BN về trạng thái đang điều trị ->Báo đơn vị xóa thuốc - vật tư kê sai bác sĩ xóa thuốc đi -> Kê lại trên tài khoản BS đúng"
+9	Sửa lỗi không Chỉnh sửa được Thông tin khi Bệnh nhân khi thẻ BHYT Hết hạn	"Tiếp nhận BN có thẻ đã hết hạn -> Khi BN đã khám hoặc đã kết thúc đợt điều trị các trường thông tin hành chính (Ngày sinh, giới tính,...) sẽ bị khóa không cho phép chỉnh sửa
+-> Cảnh báo: Thẻ BHYT đã hết hạn  
+- Phương án : Bật Tham số cho phép chỉnh sửa đối với thẻ BHYT hết hạn"	"B1: Để chỉnh sửa Thông tin BN
++ Tại module VIỆN PHÍ -> Vào Kiểm tra bảng kê chi phí:https://yte-laichau.vnpthis.vn/web_his/kiemtrabangke
++ Tim kiếm Bn cần chỉnh sửa thông tin (theo khoa phòng, theo ngày khám bệnh) -> Tìm thấy BN
++ Chọn Click chuột phải -> Cập nhật thông tin hành chính
++ Nhấn Sửa -> Cảnh báo ' Thẻ BHYT của BN đã hết hạn không cho phép chỉnh sửa'
+B2: Bật tham số
++ Tại module Hệ Thống -> Chọn DM Tham số đơn vị: https://yte-laichau.vnpthis.vn/web_his/dmthamsodonvi
++ Chọn tìm kiếm đến tham số: 91142-Cho phép cập nhật thông tin hành chính BN đã hết hạn BHYT -> Bật tham số = 1 
++ Cập nhật tham số tại nút 'Cập nhật'
+B3: Cập nhật lại Thông tin Hành chính của BN
++ Thực hiện theo các bước tại B1
++ Nhấn nút 'Lưu' -> Cập nhật lại thông tin hành chính của BN"
+10	Danh mục dược vật tư hiện thị âm trên báo cáo xuất nhập tồn	"Nguyên nhân: Các danh mục dược-vật tư được bổ sung Cùng mã nhưng khác số lô và nhập các thời điểm khác nhâu 
+Phương án: Đồng bộ lại danh mục "	"B1: Kiểm tra báo cáo Xuất Nhập Tồn
++ Tại Module Dược -> Chức năng: Thống kê xuất nhập tồn V2 'link: https://yte-laichau.vnpthis.vn/web_his/ct-nhapxuatton'
++ Chọn từ ngày đến ngày -> khoảng thời gian bạn kiểm cần kiểm tra số liệu
++ Chọn kho: Kho thuốc - vật tư muốn kiểm tra
+B2: Nhấn chức năng : 'Xem thông tin'
+- Kiểm tra Tồn cuối kỳ 
++ Số lương: hiện thị âm 
++ Trị giá (Tổng tiền): hiện thị âm 
+B3: Đồng bộ danh mục Dược 
+- Truy cập link:https://yte-laichau.vnpthis.vn/web_his//dong-bo-danh-muc-duoc#
++ Điền tên danh mục - vật tư đang đã tìm thấy ở B2
++ Vào phần : 'Tên vật tư '
+-> Tích chọn danh mục đó -> Nhấn nút 'Đồng bộ'
+-> Sau khi thông báo đồng bộ thành công -> Kiểm tra lại XNT "
+11	Cấu hình chức năng chuyển dự trù khoa phòng cho tài khoản bác sĩ mới tại TTYT Huyện/Thành Phố	Sử dụng tài khoản Admin cấu hình thêm mới tài khoản bác sĩ và thực hiện cấu hình, phân quyền các chức năng dự trù khoa phòng cho tài khoản bác sĩ cần cấu hình	"Sử dụng tài khoản Admin Lai Châu:
+1. Thêm tài khoản bác sĩ mới: 
+- Vào Danh mục -> Nhân viên -> nhập đầy đủ các thông tin tài khoản bác sĩ mới cần thêm -> chọn nút [Thêm] -> Hệ thống sẽ báo Thêm thành công.
+2. Cấu hình, phân quyền tài khoản bác sĩ mới:
+- Phân quyền menu chức năng sử dụng: Vào Hệ thống -> Phân quyền -> chọn tài khoản bác sĩ cần cấu hình -> bên phải chọn các quyền tương ứng của bác sĩ ""Khám bệnh Nội, ngoại trú, hoàn trả và dự trù dược nội trú, khoa phòng""
+- Phân quyền bác sĩ quản lý kho để tạo các phiếu dự trù, hoàn trả khoa phòng: Vào link https://yte-laichau.vnpthis.vn/web_his/phanquyen_duoc_nhanvien -> chọn bác sĩ và chọn kho cần cấu hình tương ứng với khoa phòng khởi tạo tài khoản bác sĩ -> Chọn [Thêm]."
+12	Sửa lỗi kê thuốc/vật tư tại toa thuốc Ngoại/Nội trú cho các CSYT 	"Thực hiện lần lượt các bước kiểm tra:
+1. Kiểm tra xem bác sĩ đã đánh đúng tên thuốc/vật tư cần kê chưa? (Thuốc/vật tư khi kê thuốc cần đánh đúng cả chữ in hoa/in thường)
+2. Kiểm tra thuốc/vật tư có còn số lượng tồn kho, chiếm kho trong kho không?
+3. Kiểm tra danh mục Dược xem thuốc/vật tư đó có đang bị Khoa Dược Khóa sử dụng hoặc Tạm ngưng không?
+4. Kiểm tra ngày nhập thuốc/vật tư đó xem đã hợp lý chưa (Đảm bảo ngày kê thuốc phải sau ngày Nhập thuốc)
+5. Nếu kiểm tra 04 bước trên đều thấy bình thường mà vẫn không kê được thuốc/vật tư -> Tạo task IT360 để chuyên ngành kiểm tra. "	"Các bước thực hiện tương ứng để kiểm tra:
+1. Vào link https://yte-laichau.vnpthis.vn/web_his/xem-ton-kho -> chọn kho thuốc chứa thuốc cần kiểm tra -> gõ tên thuốc theo yêu cầu của bác sĩ để kiểm tra xem đã đúng tên chưa.
+2. Vào link https://yte-laichau.vnpthis.vn/web_his/xem-ton-kho 
+- Tích dần chọn vào phần ""Tồn kho thực tế, Tồn kho ảo"" để xem thuốc có còn số lượng trong kho không? và tương ứng với số lượng cần kê đã hợp lý chưa
+- Tích chọn vào các phần chiếm kho như ""Chuyển kho bị chiếm, chiếm kho NV3 Ngoại trú/nội trú, Chưa tổng hợp dự trù, Tổng hợp dự trù chưa duyệt, Tổng hợp hoàn trả chưa duyệt"" kiểm tra xem thuốc/vật tư không kê được đó có xuất hiện trong các chiếm kho không?. Giải thích ý nghĩa của các chiếm kho như sau:
+  + Chuyển kho bị chiếm: là thuốc/vật tư đã tạo phiếu chuyển giữa các Kho và chưa hoàn thành quy trình chuyển kho 3 bước (Tạo phiếu chuyển kho -> Duyệt phiếu chuyển kho -> Nhận dược về kho).
+  + Chiếm kho NV3 Ngoại trú/nội trú: là thuốc/vật tư đã kê hết số lượng cho các bệnh nhân Ngoại trú/nội trú rồi nên không còn đủ để kê vào hiện tại cho bệnh nhân nữa => kiểm tra và báo khoa Dược chuyển kho bố sung thuốc/vật tư.
+  + Chưa tổng hợp dự trù: Là thuốc đã kê cho bệnh nhân Nội trú/BANT -> nhưng chưa Tạo phiếu dự trù để gửi khoa dược duyệt -> báo khoa nội trú kiểm tra và hoàn tất quy trình.
+  + Tổng hợp dự trù chưa duyệt: Là thuốc đã kê cho bệnh nhân Nội trú/BANT -> Đã Tạo phiếu dự trù nội trú -> có thể chưa gửi hoặc đã gửi khoa Dược và chưa được khoa Dược Duyệt dự trù.
+  + Tổng hợp hoàn trả chưa duyệt: bệnh nhân Nội trú/BANT đã tạo phiếu hoàn trả và gửi khoa Dược rồi -> nhưng khoa dược chưa duyệt hoàn trả => Báo khoa dược kiểm tra và duyệt phiếu hoàn trả (nếu cần).
++ Lưu ý: Đối với các chiếm kho trên khi tìm thuốc thuốc/vật tư bị chiếm trùng với thuốc/vật tư đang kê được -> chọn chuột phải vào thuốc/vật tư đó chọn [Kiểm tra số phiếu đang chiếm] để xem chi tiết bệnh nhân đã kê thuốc/vật tư.
+3. Vào link https://yte-laichau.vnpthis.vn/web_his/duocvattu 
+- Nhập tên thuốc/vật tư để tìm kiếm -> chọn vào thuốc để xem có bị tích chọn vào phần [Tạm ngưng] không?. Nếu có tích chọn báo khoa liên hệ trực tiếp Khoa Dược để kiểm tra và mở sử dụng thuốc(nếu cần).
+4. Trao đổi khoa Dược về ngày nhập thuốc/vật tư hoặc tạo báo cáo XNT, thẻ kho dược để kiểm tra ngày nhập vào của thuốc/vật tư(Tại chức năng NHẬP KHO có cho phép chọn ngày nên có thể Khoa Dược chọn sai ngày nhập kho sau ngày hiện tại đang kê thuốc cho bệnh nhân.
+- Các bước kiểm tra báo cáo XNT+Thẻ Kho Dược:
+ + Vào link: https://yte-laichau.vnpthis.vn/web_his/ct-nhapxuatton -> Chọn khoảng thời gian, chọn kho và chọn [Xem thông tin]
+ + Vào link: https://yte-laichau.vnpthis.vn/web_his/the-kho-duoc -> Chọn khoảng thời gian và kho như trên tại XNT -> chọn thuốc/vật tư cần kiểm tra -> chọn [Hiển thị] -> Kiểm tra ngày nhập kho chi tiết của thuốc/vật tư.
+5. Tạo task jira IT360 https://it360.vnpt.vn/ nếu không tìm ra nguyên nhân Lỗi -> chọn nhóm dịch vụ [Y tế điện tử] -> [VNPT HIS Oracle Java] đối với TTYT và [......VNPT HMIS] nếu ở TYT xã/phường/thị trấn."
+13	Lỗi xuất dược không đúng ngày kê cho đơn Ngoại trú và BANT 	Nguyên nhân: Đơn vị xuất muộn thuốc , Hệ thống sẽ ghi nhận xuất ngày thì trừ kho ngày đó -> Dẫn đến bị lệch báo cáo Dược	"B1: Đăng nhập hệ thống Phần mềm KCB
+   + Vào Thiết lập: Chọn vào đơn vị đăng lỗi 
+B2: Truy cập chức năng báo cáo xuất dược tại link: https://yte-laichau.vnpthis.vn/web_his//bao-cao-20-theo-ngay-xuat-duoc
+- Chọn Từ ngày đến (Ngày kê thuốc cho BN)
+   + Chọn phần Lệch báo cáo 19, 20 (Đối với BN Ngoại trú)
+   + Chọn lệch với ngày ra toa (Đối với bệnh nhân BANT)
+B3: Tại Danh sách thuốc:
+- Chọn hồ sơ BN đang sai ngày xuất do đơn vị
+- Nhấn 'Xem chi tiết' 
+B4: Nhấn ""Cập nhật""
+-> Kết thúc"
+14	Hướng dẫn Cập nhật, xóa Công khám BN Ngoại trú 		
+
+
 
