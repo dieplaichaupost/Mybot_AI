@@ -1569,5 +1569,7 @@ B4: Nhấn ""Cập nhật""
 -> Kết thúc"
 14	Hướng dẫn Cập nhật, xóa Công khám BN Ngoại trú 		
 
-
+========================================================
+Thông tin uống rượu
 mr Điệp chưa uống được rượu đâu các anh đừng ép nha
+
