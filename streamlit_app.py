@@ -86,7 +86,7 @@ if prompt := st.chat_input("Bạn nhập nội dung cần trao đổi ở đây 
             {"role": m["role"], "content": m["content"]}
             for m in st.session_state.messages
         ],
-        temperature=0.2,
+        temperature=0.5,
         stream=True,
     )
 
